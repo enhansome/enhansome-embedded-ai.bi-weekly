@@ -1,0 +1,861 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "liuzhuang13/DenseNet: Densely Connected Convolutional Networks, In CVPR 2017 (Best Paper Award)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-01-09T13:15:40Z",
+            "owner": "liuzhuang13",
+            "repo": "DenseNet",
+            "stars": 4868
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chuanqi305/MobileNet-SSD: Caffe implementation of Google MobileNet SSD detection network, with pretrained weights on VOC0712 and mAP=0.727.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-13T06:43:16Z",
+            "owner": "chuanqi305",
+            "repo": "MobileNet-SSD",
+            "stars": 2127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hollance/MobileNet-CoreML: The MobileNet neural network using Apple's new CoreML framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-09-22T16:38:15Z",
+            "owner": "hollance",
+            "repo": "MobileNet-CoreML",
+            "stars": 711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yonghenglh6/DepthwiseConvolution: A personal mobile convolution implementation on caffe by liuhao.(only GPU)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Cuda",
+            "last_commit": "2021-05-21T06:54:58Z",
+            "owner": "yonghenglh6",
+            "repo": "DepthwiseConvolution",
+            "stars": 526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kedartatwawadi/NN_compression",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-09-05T15:17:53Z",
+            "owner": "kedartatwawadi",
+            "repo": "NN_compression",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AngusG/tensorflow-xnor-bnn: BinaryNets in TensorFlow with XNOR GEMM op",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-08-23T00:50:24Z",
+            "owner": "AngusG",
+            "repo": "tensorflow-xnor-bnn",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "farmingyard/caffe-mobilenet: A caffe implementation of mobilenet's depthwise convolution layer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-07-31T04:24:04Z",
+            "owner": "farmingyard",
+            "repo": "caffe-mobilenet",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jonathanmarek1/binarynet-tensorflow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-03-15T14:47:11Z",
+            "owner": "jonathanmarek1",
+            "repo": "binarynet-tensorflow",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kevinzakka/DenseNet: PyTorch Implementation of \"Densely Connected Convolutional Networks\"",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Model Compression"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "msracver/FCIS: Fully Convolutional Instance-aware Semantic Segmentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Cuda",
+            "last_commit": "2021-09-27T02:16:42Z",
+            "owner": "msracver",
+            "repo": "FCIS",
+            "stars": 1561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seanlinx/mtcnn: this repository is the implementation of MTCNN in MXnet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-07-08T12:53:09Z",
+            "owner": "Seanlinx",
+            "repo": "mtcnn",
+            "stars": 589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CongWeilin/mtcnn-caffe: Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-10-01T02:43:53Z",
+            "owner": "CongWeilin",
+            "repo": "mtcnn-caffe",
+            "stars": 493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "foreverYoungGitHub/MTCNN: Repository for \"Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks\", implemented with Caffe, C++ interface.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-03-19T15:30:56Z",
+            "owner": "foreverYoungGitHub",
+            "repo": "MTCNN",
+            "stars": 328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OAID/mtcnn: C++ project to implement MTCNN, a perfect face detect algorithm, on different DL frameworks. The most popular frameworks: caffe/mxnet/tensorflow, are all suppported now",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-06-07T02:38:28Z",
+            "owner": "OAID",
+            "repo": "FaceDetection",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bearpaw/PyraNet: Code for \"Learning Feature Pyramids for Human Pose Estimation\" (ICCV 2017)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-12-20T20:18:32Z",
+            "owner": "bearpaw",
+            "repo": "PyraNet",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bearpaw/PyraNet: Code for \"Learning Feature Pyramids for Human Pose Estimation\" (ICCV 2017)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2021-12-20T20:18:32Z",
+            "owner": "bearpaw",
+            "repo": "PyraNet",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LaoDar/cnn_head_pose_estimator: a simple and fast mxnet version CNN based head pose estimator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-01-15T05:07:10Z",
+            "owner": "laodar",
+            "repo": "cnn_head_pose_estimator",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aquaviter/iot-demo-mxnet-greengrass",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-07-01T13:14:27Z",
+            "owner": "aquaviter",
+            "repo": "iot-demo-mxnet-greengrass",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Model Application"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ProjectDent/ARKit-CoreLocation: Combines the high accuracy of AR with the scale of GPS data",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-06-02T22:18:49Z",
+            "owner": "AndrewHartAR",
+            "repo": "ARKit-CoreLocation",
+            "stars": 5525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "exyte/ARTetris: Augmented Reality Tetris made with ARKit and SceneKit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-07-25T02:56:23Z",
+            "owner": "exyte",
+            "repo": "ARTetris",
+            "stars": 1526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bjarnel/arkit-tictactoe: Tic-Tac-Toe implemented using ARKit+Scenekit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2021-10-02T13:23:32Z",
+            "owner": "bjarnel",
+            "repo": "arkit-tictactoe",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arirawr/ARKit-FloorIsLava: Basic ARKit example that detects planes and makes them lava.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-11-16T05:32:55Z",
+            "owner": "arirawr",
+            "repo": "ARKit-FloorIsLava",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bjarnel/arkit-portal: Simple portal demo implemented with ARKit+SceneKit, the trick is to change the rendering order and render invisible \"masks\" to hide what's inside.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2018-03-30T09:19:59Z",
+            "owner": "bjarnel",
+            "repo": "arkit-portal",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bjarnel/scenekit-tictactoe",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2017-06-20T08:00:50Z",
+            "owner": "bjarnel",
+            "repo": "scenekit-tictactoe",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "AR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TensorFlow Android Camera Demo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T21:27:00Z",
+            "owner": "tensorflow",
+            "repo": "tensorflow",
+            "stars": 197005
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bwasti/AICamera: Demonstration of using Caffe2 inside an Android application.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2019-03-27T22:24:39Z",
+            "owner": "facebookarchive",
+            "repo": "AICamera",
+            "stars": 346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-08-27T22:55:04Z",
+            "owner": "KleinYuan",
+            "repo": "Caffe2-iOS",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MXNet Android Classification App - Image classification on Android with MXNet.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2015-11-11T06:25:16Z",
+            "owner": "Leliana",
+            "repo": "WhatsThis",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "harvardnlp/nmt-android: Neural Machine Translation on Android",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2016-06-28T17:11:21Z",
+            "owner": "harvardnlp",
+            "repo": "nmt-android",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mtmd/Mobile_ConvNet: RenderScript based implementation of Convolutional Neural Networks for Android phones",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "RenderScript",
+            "last_commit": "2018-02-13T05:16:27Z",
+            "owner": "mtmd",
+            "repo": "Mobile_ConvNet",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "Android"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KimDarren/FaceCropper: Crop faces, inside of your image, with iOS 11 Vision api.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2017-08-14T12:06:32Z",
+            "owner": "KimDarren",
+            "repo": "FaceCropper",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hollance/TensorFlow-iOS-Example: Source code for my blog post \"Getting started with TensorFlow on iOS\"",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-03-06T14:23:21Z",
+            "owner": "hollance",
+            "repo": "TensorFlow-iOS-Example",
+            "stars": 440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-08-27T22:55:04Z",
+            "owner": "KleinYuan",
+            "repo": "Caffe2-iOS",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MXNet iOS Classification App - Image classification on iOS with MXNet.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-03-26T02:37:27Z",
+            "owner": "pppoe",
+            "repo": "WhatsThis-iOS",
+            "stars": 113
+          }
+        }
+      ],
+      "title": "iOS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SaschaWillems/Vulkan: Examples and demos for the new Vulkan API",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GLSL",
+            "last_commit": "2026-08-08T09:03:54Z",
+            "owner": "SaschaWillems",
+            "repo": "Vulkan",
+            "stars": 12105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ARM-software/vulkan-sdk: ARM Vulkan SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-02-25T22:17:23Z",
+            "owner": "ARM-software",
+            "repo": "vulkan-sdk",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alexhultman/libvc: Vulkan Compute for C++ (experimentation project)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-01-08T23:18:21Z",
+            "owner": "uNetworking",
+            "repo": "libvc",
+            "stars": 141
+          }
+        }
+      ],
+      "title": "Vulkan"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T09:19:51Z",
+            "owner": "Tencent",
+            "repo": "ncnn",
+            "stars": 23693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Learning in a Single File for Smart Devices — mxnet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-10-25T21:28:33Z",
+            "owner": "apache",
+            "repo": "mxnet",
+            "stars": 20811
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies",
+          "description": "Intro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T09:47:06Z",
+            "owner": "ARM-software",
+            "repo": "ComputeLibrary",
+            "stars": 3180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft Embedded Learning Library",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-06-01T16:49:37Z",
+            "owner": "microsoft",
+            "repo": "ELL",
+            "stars": 2303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-28T09:12:57Z",
+            "owner": "mil-tokyo",
+            "repo": "webdnn",
+            "stars": 1999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JDAI-CV/dabnn: dabnn is an accelerated binary neural networks inference framework for mobile platform",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-11-12T01:49:55Z",
+            "owner": "JDAI-CV",
+            "repo": "dabnn",
+            "stars": 774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jiaxiang-wu/quantized-cnn: An efficient framework for convolutional neural networks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-08-30T06:23:06Z",
+            "owner": "CAS-CLab",
+            "repo": "quantized-cnn",
+            "stars": 277
+          }
+        }
+      ],
+      "title": "Frameworks & Acceleration Library"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pili-engineering/PLDroidPlayer: PLDroidPlayer 是 Pili 直播 SDK 的安卓播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-05T02:49:05Z",
+            "owner": "pili-engineering",
+            "repo": "PLDroidPlayer",
+            "stars": 4505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MTG/essentia: C++ library for audio and music analysis, description and synthesis, including Python bindings",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-22T07:45:39Z",
+            "owner": "MTG",
+            "repo": "essentia",
+            "stars": 3690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pili-engineering/PLPlayerKit: PLPlayerKit 是 Pili 直播 SDK 的 iOS 播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-05T03:02:21Z",
+            "owner": "pili-engineering",
+            "repo": "PLPlayerKit",
+            "stars": 1982
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pili-engineering/PLPlayerKit: PLPlayerKit 是 Pili 直播 SDK 的 iOS 播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-05T03:02:21Z",
+            "owner": "pili-engineering",
+            "repo": "PLPlayerKit",
+            "stars": 1982
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pili-engineering/PLDroidShortVideo: PLDroidShortVideo 是七牛推出的一款适用于 Android 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、本地/云端存储在内的多种功能，支持高度定制以及二次开发。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-05-17T10:31:27Z",
+            "owner": "pili-engineering",
+            "repo": "PLDroidShortVideo",
+            "stars": 1714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pili-engineering/PLDroidMediaStreaming: PLDroidMediaStreaming 是 Pili 直播 SDK 的 Android 推流端，支持 RTMP 推流，h.264 和 AAC 编码，硬编、软编支持。具有丰富的数据和状态回调，方便用户根据自己的业务定制化开发。具有直播场景下的重要功能，如：美颜、背景音乐、水印等功能。PLDroidMediaStreaming 是现在目前重点维护的版本，自带采集模块也支持用户自己做采集端。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-03-13T10:15:58Z",
+            "owner": "pili-engineering",
+            "repo": "PLDroidMediaStreaming",
+            "stars": 1449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pili-engineering/PLMediaStreamingKit: PLMediaStreamingKit 是 Pili 直播 SDK 的 iOS 推流端，支持 RTMP 推流，h.264 和 AAC 编码，硬编、软编支持。具有丰富的数据和状态回调，方便用户根据自己的业务定制化开发。具有直播场景下的重要功能，如：美颜、背景音乐、水印等功能。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2024-05-31T08:04:35Z",
+            "owner": "pili-engineering",
+            "repo": "PLMediaStreamingKit",
+            "stars": 543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pili-engineering/PLShortVideoKit: PLShortVideoKit 是七牛推出的一款适用于 iOS 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、本地/云端存储在内的多种功能，支持高度定制以及二次开发。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2024-04-30T01:57:49Z",
+            "owner": "pili-engineering",
+            "repo": "PLShortVideoKit",
+            "stars": 452
+          }
+        }
+      ],
+      "title": "Mobile Video Process Library/Player"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Samsung/iotjs: Platform for Internet of Things with JavaScript",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-06-18T10:15:48Z",
+            "owner": "jerryscript-project",
+            "repo": "iotjs",
+            "stars": 2601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hollance/Forge: A neural network toolkit for Metal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-05-18T20:25:35Z",
+            "owner": "hollance",
+            "repo": "Forge",
+            "stars": 1264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "christopher5106/FastAnnotationTool: A tool using OpenCV to annotate images for image classification, optical character reading, etc.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-01-17T11:05:33Z",
+            "owner": "christopher5106",
+            "repo": "FastAnnotationTool",
+            "stars": 952
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "facebook/fb-caffe-exts: Some handy utility libraries and tools for the Caffe deep learning framework.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2019-02-04T23:39:08Z",
+            "owner": "facebookarchive",
+            "repo": "fb-caffe-exts",
+            "stars": 459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "raphui/rnk: rnk is a RTOS targeting ARM architecture.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-09T20:57:09Z",
+            "owner": "raphui",
+            "repo": "rnk",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "Other Toolkit"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hardware"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:31:39.130Z",
+    "original_repository": "ysh329/embedded-ai.bi-weekly",
+    "original_repository_sha": "a201042a3ac64167d1c411e42c2993e30185423e",
+    "enhanced_repository": "enhansome/enhansome-embedded-ai.bi-weekly",
+    "enhanced_repository_description": null,
+    "title": "Awesome Embedded-AI-Report with stars"
+  }
+}
