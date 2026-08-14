@@ -256,12 +256,12 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Model Encryption
 
-* [OpenMined/Syft: Homomorphically Encrypted Deep Learning Library](https://github.com/OpenMined/syft) ⭐ 22 | 🐛 41 | 🌐 Python | 📅 2026-08-13
+* [OpenMined/Syft: Homomorphically Encrypted Deep Learning Library](https://github.com/OpenMined/syft) ⭐ 22 | 🐛 41 | 🌐 Python | 📅 2026-08-14
 
 ## Model Application
 
 * [msracver/FCIS: Fully Convolutional Instance-aware Semantic Segmentation](https://github.com/msracver/FCIS) ⭐ 1,561 | 🐛 92 | 🌐 Cuda | 📅 2021-09-27
-* [Seanlinx/mtcnn: this repository is the implementation of MTCNN in MXnet](https://github.com/Seanlinx/mtcnn) ⭐ 589 | 🐛 59 | 🌐 Python | 📅 2017-07-08
+* [Seanlinx/mtcnn: this repository is the implementation of MTCNN in MXnet](https://github.com/Seanlinx/mtcnn) ⭐ 588 | 🐛 59 | 🌐 Python | 📅 2017-07-08
 * [CongWeilin/mtcnn-caffe: Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks](https://github.com/CongWeilin/mtcnn-caffe) ⭐ 493 | 🐛 52 | 🌐 Python | 📅 2018-10-01  
 * [foreverYoungGitHub/MTCNN: Repository for "Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks", implemented with Caffe, C++ interface.](https://github.com/foreverYoungGitHub/MTCNN) ⭐ 328 | 🐛 37 | 🌐 C++ | 📅 2018-03-19
 * [OAID/mtcnn: C++ project to implement MTCNN, a perfect face detect algorithm, on different DL frameworks. The most popular frameworks: caffe/mxnet/tensorflow, are all suppported now](https://github.com/oaid/mtcnn) ⭐ 274 | 🐛 4 | 🌐 C++ | 📅 2018-06-07
@@ -273,7 +273,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 ## AR
 
 * [ProjectDent/ARKit-CoreLocation: Combines the high accuracy of AR with the scale of GPS data](https://github.com/ProjectDent/ARKit-CoreLocation) ⭐ 5,525 | 🐛 51 | 🌐 Swift | 📅 2026-06-02
-* [exyte/ARTetris: Augmented Reality Tetris made with ARKit and SceneKit](https://github.com/exyte/ARTetris) ⭐ 1,526 | 🐛 1 | 🌐 Swift | 📅 2023-07-25
+* [exyte/ARTetris: Augmented Reality Tetris made with ARKit and SceneKit](https://github.com/exyte/ARTetris) ⭐ 1,525 | 🐛 1 | 🌐 Swift | 📅 2023-07-25
 * [bjarnel/arkit-tictactoe: Tic-Tac-Toe implemented using ARKit+Scenekit](https://github.com/bjarnel/arkit-tictactoe) ⚠️ Archived
 * [arirawr/ARKit-FloorIsLava: Basic ARKit example that detects planes and makes them lava.](https://github.com/arirawr/ARKit-FloorIsLava) ⭐ 127 | 🐛 1 | 🌐 Swift | 📅 2018-11-16
 * [bjarnel/arkit-portal: Simple portal demo implemented with ARKit+SceneKit, the trick is to change the rendering order and render invisible "masks" to hide what's inside.](https://github.com/bjarnel/arkit-portal) ⚠️ Archived
@@ -281,7 +281,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Android
 
-* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) ⭐ 197,005 | 🐛 2,846 | 🌐 C++ | 📅 2026-08-13
+* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) ⭐ 197,024 | 🐛 2,849 | 🌐 C++ | 📅 2026-08-14
 * [bwasti/AICamera: Demonstration of using Caffe2 inside an Android application.](https://github.com/bwasti/AICamera) ⚠️ Archived
 * [KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.](https://github.com/KleinYuan/Caffe2-iOS) ⭐ 225 | 🐛 5 | 🌐 C++ | 📅 2017-08-27
 * [MXNet Android Classification App - Image classification on Android with MXNet.](https://github.com/Leliana/WhatsThis) ⭐ 192 | 🐛 6 | 🌐 Java | 📅 2015-11-11
@@ -304,15 +304,15 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Vulkan
 
-* [SaschaWillems/Vulkan: Examples and demos for the new Vulkan API](https://github.com/SaschaWillems/Vulkan) ⭐ 12,105 | 🐛 18 | 🌐 GLSL | 📅 2026-08-08
+* [SaschaWillems/Vulkan: Examples and demos for the new Vulkan API](https://github.com/SaschaWillems/Vulkan) ⭐ 12,106 | 🐛 18 | 🌐 GLSL | 📅 2026-08-08
 * [ARM-software/vulkan-sdk: ARM Vulkan SDK](https://github.com/ARM-software/vulkan-sdk) ⭐ 244 | 🐛 6 | 🌐 C | 📅 2023-02-25
 * [alexhultman/libvc: Vulkan Compute for C++ (experimentation project)](https://github.com/alexhultman/libvc) ⭐ 141 | 🐛 2 | 🌐 C++ | 📅 2022-01-08
 
 ## Frameworks & Acceleration Library
 
-* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) ⭐ 23,693 | 🐛 1,216 | 🌐 C++ | 📅 2026-08-13
+* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) ⭐ 23,698 | 🐛 1,215 | 🌐 C++ | 📅 2026-08-13
 * [Deep Learning in a Single File for Smart Devices — mxnet](https://github.com/dmlc/mxnet/tree/master/amalgamation) ⚠️ Archived
-* [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary) ⭐ 3,180 | 🐛 3 | 🌐 C++ | 📅 2026-08-12 [Intro](https://developer.arm.com/technologies/compute-library)
+* [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary) ⭐ 3,181 | 🐛 3 | 🌐 C++ | 📅 2026-08-12 [Intro](https://developer.arm.com/technologies/compute-library)
 * [Microsoft Embedded Learning Library](https://github.com/Microsoft/ELL) ⚠️ Archived
 * [mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn) ⭐ 1,999 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-28
 * [JDAI-CV/dabnn: dabnn is an accelerated binary neural networks inference framework for mobile platform](https://github.com/JDAI-CV/dabnn) ⭐ 774 | 🐛 17 | 🌐 C++ | 📅 2019-11-12
@@ -339,8 +339,8 @@ Model convertor. More convertors please refer [deep-learning-model-convertor](ht
 
 ## Mobile Video Process Library/Player
 
-* [pili-engineering/PLDroidPlayer: PLDroidPlayer 是 Pili 直播 SDK 的安卓播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLDroidPlayer) ⭐ 4,505 | 🐛 363 | 📅 2025-09-05
-* [MTG/essentia: C++ library for audio and music analysis, description and synthesis, including Python bindings](https://github.com/MTG/essentia) ⭐ 3,690 | 🐛 425 | 🌐 C++ | 📅 2026-07-22
+* [pili-engineering/PLDroidPlayer: PLDroidPlayer 是 Pili 直播 SDK 的安卓播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLDroidPlayer) ⭐ 4,503 | 🐛 363 | 📅 2025-09-05
+* [MTG/essentia: C++ library for audio and music analysis, description and synthesis, including Python bindings](https://github.com/MTG/essentia) ⭐ 3,691 | 🐛 425 | 🌐 C++ | 📅 2026-07-22
 * [pili-engineering/PLPlayerKit: PLPlayerKit 是 Pili 直播 SDK 的 iOS 播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLPlayerKit) ⭐ 1,982 | 🐛 84 | 📅 2025-09-05
 * [pili-engineering/PLPlayerKit: PLPlayerKit 是 Pili 直播 SDK 的 iOS 播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLPlayerKit) ⭐ 1,982 | 🐛 84 | 📅 2025-09-05
 * [pili-engineering/PLDroidShortVideo: PLDroidShortVideo 是七牛推出的一款适用于 Android 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、本地/云端存储在内的多种功能，支持高度定制以及二次开发。](https://github.com/pili-engineering/PLDroidShortVideo) ⭐ 1,714 | 🐛 122 | 🌐 Java | 📅 2024-05-17
@@ -427,4 +427,4 @@ This part contains related course, guides and tutorials.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
