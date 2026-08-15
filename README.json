@@ -357,10 +357,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T21:07:38Z",
+            "last_commit": "2026-08-15T20:14:31Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197024
+            "stars": 197043
           }
         },
         {
@@ -512,7 +512,7 @@
             "last_commit": "2026-08-08T09:03:54Z",
             "owner": "SaschaWillems",
             "repo": "Vulkan",
-            "stars": 12106
+            "stars": 12108
           }
         },
         {
@@ -560,7 +560,7 @@
             "last_commit": "2026-08-13T09:19:51Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23698
+            "stars": 23699
           }
         },
         {
@@ -678,7 +678,7 @@
             "last_commit": "2026-07-22T07:45:39Z",
             "owner": "MTG",
             "repo": "essentia",
-            "stars": 3691
+            "stars": 3692
           }
         },
         {
@@ -782,7 +782,7 @@
             "last_commit": "2021-06-18T10:15:48Z",
             "owner": "jerryscript-project",
             "repo": "iotjs",
-            "stars": 2601
+            "stars": 2600
           }
         },
         {
@@ -851,7 +851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:11:41.517Z",
+    "last_updated": "2026-08-15T21:04:19.216Z",
     "original_repository": "ysh329/embedded-ai.bi-weekly",
     "original_repository_sha": "a201042a3ac64167d1c411e42c2993e30185423e",
     "enhanced_repository": "enhansome/enhansome-embedded-ai.bi-weekly",
