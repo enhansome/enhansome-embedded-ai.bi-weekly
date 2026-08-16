@@ -357,10 +357,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T20:14:31Z",
+            "last_commit": "2026-08-16T20:05:40Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197043
+            "stars": 197088
           }
         },
         {
@@ -464,7 +464,7 @@
             "last_commit": "2017-03-06T14:23:21Z",
             "owner": "hollance",
             "repo": "TensorFlow-iOS-Example",
-            "stars": 440
+            "stars": 439
           }
         },
         {
@@ -509,10 +509,10 @@
           "repo_info": {
             "archived": false,
             "language": "GLSL",
-            "last_commit": "2026-08-08T09:03:54Z",
+            "last_commit": "2026-08-16T08:06:23Z",
             "owner": "SaschaWillems",
             "repo": "Vulkan",
-            "stars": 12108
+            "stars": 12112
           }
         },
         {
@@ -560,7 +560,7 @@
             "last_commit": "2026-08-13T09:19:51Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23699
+            "stars": 23701
           }
         },
         {
@@ -588,7 +588,7 @@
             "last_commit": "2026-08-12T09:47:06Z",
             "owner": "ARM-software",
             "repo": "ComputeLibrary",
-            "stars": 3181
+            "stars": 3182
           }
         },
         {
@@ -678,7 +678,7 @@
             "last_commit": "2026-07-22T07:45:39Z",
             "owner": "MTG",
             "repo": "essentia",
-            "stars": 3692
+            "stars": 3695
           }
         },
         {
@@ -851,7 +851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T21:04:19.216Z",
+    "last_updated": "2026-08-16T21:01:56.780Z",
     "original_repository": "ysh329/embedded-ai.bi-weekly",
     "original_repository_sha": "a201042a3ac64167d1c411e42c2993e30185423e",
     "enhanced_repository": "enhansome/enhansome-embedded-ai.bi-weekly",
