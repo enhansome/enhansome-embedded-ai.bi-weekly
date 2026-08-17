@@ -270,7 +270,7 @@
             "last_commit": "2026-06-02T22:18:49Z",
             "owner": "AndrewHartAR",
             "repo": "ARKit-CoreLocation",
-            "stars": 5525
+            "stars": 5526
           }
         },
         {
@@ -357,10 +357,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T20:05:40Z",
+            "last_commit": "2026-08-17T21:10:46Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197088
+            "stars": 196988
           }
         },
         {
@@ -512,7 +512,7 @@
             "last_commit": "2026-08-16T08:06:23Z",
             "owner": "SaschaWillems",
             "repo": "Vulkan",
-            "stars": 12112
+            "stars": 12115
           }
         },
         {
@@ -557,10 +557,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T09:19:51Z",
+            "last_commit": "2026-08-17T07:44:30Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23701
+            "stars": 23706
           }
         },
         {
@@ -588,7 +588,7 @@
             "last_commit": "2026-08-12T09:47:06Z",
             "owner": "ARM-software",
             "repo": "ComputeLibrary",
-            "stars": 3182
+            "stars": 3181
           }
         },
         {
@@ -678,7 +678,7 @@
             "last_commit": "2026-07-22T07:45:39Z",
             "owner": "MTG",
             "repo": "essentia",
-            "stars": 3695
+            "stars": 3696
           }
         },
         {
@@ -851,7 +851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T21:01:56.780Z",
+    "last_updated": "2026-08-17T21:11:57.909Z",
     "original_repository": "ysh329/embedded-ai.bi-weekly",
     "original_repository_sha": "a201042a3ac64167d1c411e42c2993e30185423e",
     "enhanced_repository": "enhansome/enhansome-embedded-ai.bi-weekly",
