@@ -28,7 +28,7 @@
             "last_commit": "2025-07-13T06:43:16Z",
             "owner": "chuanqi305",
             "repo": "MobileNet-SSD",
-            "stars": 2127
+            "stars": 2128
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-06-02T22:18:49Z",
             "owner": "AndrewHartAR",
             "repo": "ARKit-CoreLocation",
-            "stars": 5526
+            "stars": 5527
           }
         },
         {
@@ -357,10 +357,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T21:10:46Z",
+            "last_commit": "2026-08-18T21:04:41Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 196988
+            "stars": 197044
           }
         },
         {
@@ -509,10 +509,10 @@
           "repo_info": {
             "archived": false,
             "language": "GLSL",
-            "last_commit": "2026-08-16T08:06:23Z",
+            "last_commit": "2026-08-18T05:47:03Z",
             "owner": "SaschaWillems",
             "repo": "Vulkan",
-            "stars": 12115
+            "stars": 12116
           }
         },
         {
@@ -557,10 +557,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T07:44:30Z",
+            "last_commit": "2026-08-18T08:40:18Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23706
+            "stars": 23712
           }
         },
         {
@@ -574,7 +574,7 @@
             "last_commit": "2023-10-25T21:28:33Z",
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20811
+            "stars": 20810
           }
         },
         {
@@ -602,7 +602,7 @@
             "last_commit": "2024-06-01T16:49:37Z",
             "owner": "microsoft",
             "repo": "ELL",
-            "stars": 2303
+            "stars": 2304
           }
         },
         {
@@ -678,7 +678,7 @@
             "last_commit": "2026-07-22T07:45:39Z",
             "owner": "MTG",
             "repo": "essentia",
-            "stars": 3696
+            "stars": 3697
           }
         },
         {
@@ -851,7 +851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:11:57.909Z",
+    "last_updated": "2026-08-18T21:09:37.968Z",
     "original_repository": "ysh329/embedded-ai.bi-weekly",
     "original_repository_sha": "a201042a3ac64167d1c411e42c2993e30185423e",
     "enhanced_repository": "enhansome/enhansome-embedded-ai.bi-weekly",
