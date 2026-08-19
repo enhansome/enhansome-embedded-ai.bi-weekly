@@ -256,7 +256,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Model Encryption
 
-* [OpenMined/Syft: Homomorphically Encrypted Deep Learning Library](https://github.com/OpenMined/syft) ⭐ 22 | 🐛 41 | 🌐 Python | 📅 2026-08-18
+* [OpenMined/Syft: Homomorphically Encrypted Deep Learning Library](https://github.com/OpenMined/syft) ⭐ 22 | 🐛 41 | 🌐 Python | 📅 2026-08-19
 
 ## Model Application
 
@@ -281,7 +281,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Android
 
-* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) ⭐ 197,044 | 🐛 3,000 | 🌐 C++ | 📅 2026-08-18
+* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) ⭐ 197,061 | 🐛 3,042 | 🌐 C++ | 📅 2026-08-19
 * [bwasti/AICamera: Demonstration of using Caffe2 inside an Android application.](https://github.com/bwasti/AICamera) ⚠️ Archived
 * [KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.](https://github.com/KleinYuan/Caffe2-iOS) ⭐ 225 | 🐛 5 | 🌐 C++ | 📅 2017-08-27
 * [MXNet Android Classification App - Image classification on Android with MXNet.](https://github.com/Leliana/WhatsThis) ⭐ 192 | 🐛 6 | 🌐 Java | 📅 2015-11-11
@@ -304,22 +304,22 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Vulkan
 
-* [SaschaWillems/Vulkan: Examples and demos for the new Vulkan API](https://github.com/SaschaWillems/Vulkan) ⭐ 12,116 | 🐛 17 | 🌐 GLSL | 📅 2026-08-18
+* [SaschaWillems/Vulkan: Examples and demos for the new Vulkan API](https://github.com/SaschaWillems/Vulkan) ⭐ 12,117 | 🐛 17 | 🌐 GLSL | 📅 2026-08-18
 * [ARM-software/vulkan-sdk: ARM Vulkan SDK](https://github.com/ARM-software/vulkan-sdk) ⭐ 244 | 🐛 6 | 🌐 C | 📅 2023-02-25
 * [alexhultman/libvc: Vulkan Compute for C++ (experimentation project)](https://github.com/alexhultman/libvc) ⭐ 141 | 🐛 2 | 🌐 C++ | 📅 2022-01-08
 
 ## Frameworks & Acceleration Library
 
-* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) ⭐ 23,712 | 🐛 1,230 | 🌐 C++ | 📅 2026-08-18
+* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) ⭐ 23,713 | 🐛 1,230 | 🌐 C++ | 📅 2026-08-18
 * [Deep Learning in a Single File for Smart Devices — mxnet](https://github.com/dmlc/mxnet/tree/master/amalgamation) ⚠️ Archived
-* [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary) ⭐ 3,181 | 🐛 4 | 🌐 C++ | 📅 2026-08-12 [Intro](https://developer.arm.com/technologies/compute-library)
+* [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary) ⭐ 3,182 | 🐛 4 | 🌐 C++ | 📅 2026-08-12 [Intro](https://developer.arm.com/technologies/compute-library)
 * [Microsoft Embedded Learning Library](https://github.com/Microsoft/ELL) ⚠️ Archived
 * [mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn) ⭐ 1,999 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-28
 * [JDAI-CV/dabnn: dabnn is an accelerated binary neural networks inference framework for mobile platform](https://github.com/JDAI-CV/dabnn) ⭐ 774 | 🐛 17 | 🌐 C++ | 📅 2019-11-12
 * [jiaxiang-wu/quantized-cnn: An efficient framework for convolutional neural networks](https://github.com/jiaxiang-wu/quantized-cnn) ⭐ 277 | 🐛 3 | 🌐 C++ | 📅 2023-08-30
 * [Apple CoreML](https://developer.apple.com/documentation/coreml)
 
-- [blei-lab/edward: A library for probabilistic modeling, inference, and criticism. Deep generative models, variational inference. Runs on TensorFlow](https://github.com/blei-lab/edward) ⭐ 4,844 | 🐛 219 | 🌐 Jupyter Notebook | 📅 2024-03-18
+- [blei-lab/edward: A library for probabilistic modeling, inference, and criticism. Deep generative models, variational inference. Runs on TensorFlow](https://github.com/blei-lab/edward) ⭐ 4,843 | 🐛 219 | 🌐 Jupyter Notebook | 📅 2024-03-18
 - [Darknet with NNPACK: NNPACK was used to optimize Darknet without using a GPU. It is useful for embedded devices using ARM CPUs](https://github.com/thomaspark-pkj/darknet-nnpack) ⭐ 306 | 🐛 42 | 🌐 C | 📅 2022-02-22  
 - [naibaf7/libdnn: Greentea LibDNN - a universal convolution implementation supporting CUDA and OpenCL](https://github.com/naibaf7/libdnn) ⭐ 137 | 🐛 8 | 🌐 C++ | 📅 2017-04-20
 - [dmlc/nnvm-fusion: Kernel Fusion and Runtime Compilation Based on NNVM](https://github.com/dmlc/nnvm-fusion) ⭐ 72 | 🐛 0 | 🌐 C++ | 📅 2016-11-21
@@ -427,4 +427,4 @@ This part contains related course, guides and tutorials.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
