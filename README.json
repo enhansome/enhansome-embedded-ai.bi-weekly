@@ -380,10 +380,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-19T12:24:16Z",
+                "last_commit": "2026-08-19T21:10:10Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197061
+                "stars": 197066
               }
             },
             {
@@ -644,7 +644,7 @@
                 "last_commit": "2026-08-18T08:40:18Z",
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23713
+                "stars": 23714
               }
             },
             {
@@ -659,7 +659,7 @@
                 "last_commit": "2023-10-25T21:28:33Z",
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20810
+                "stars": 20809
               }
             },
             {
@@ -689,7 +689,7 @@
                 "last_commit": "2024-06-01T16:49:37Z",
                 "owner": "microsoft",
                 "repo": "ELL",
-                "stars": 2304
+                "stars": 2303
               }
             },
             {
@@ -853,7 +853,7 @@
                 "last_commit": "2025-09-05T02:49:05Z",
                 "owner": "pili-engineering",
                 "repo": "PLDroidPlayer",
-                "stars": 4503
+                "stars": 4502
               }
             },
             {
@@ -1053,7 +1053,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:27:52.344Z",
+    "last_updated": "2026-08-19T21:12:10.928Z",
     "original_repository": "ysh329/embedded-ai.bi-weekly",
     "original_repository_id": 96906262,
     "original_repository_sha": "a201042a3ac64167d1c411e42c2993e30185423e",
