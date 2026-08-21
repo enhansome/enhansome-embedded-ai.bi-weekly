@@ -17,7 +17,7 @@
                 "last_commit": "2024-01-09T13:15:40Z",
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4868
+                "stars": 4869
               }
             },
             {
@@ -380,10 +380,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-20T21:11:31Z",
+                "last_commit": "2026-08-21T21:03:09Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197106
+                "stars": 197213
               }
             },
             {
@@ -592,7 +592,7 @@
                 "last_commit": "2026-08-18T05:47:03Z",
                 "owner": "SaschaWillems",
                 "repo": "Vulkan",
-                "stars": 12119
+                "stars": 12120
               }
             },
             {
@@ -644,7 +644,7 @@
                 "last_commit": "2026-08-18T08:40:18Z",
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23723
+                "stars": 23729
               }
             },
             {
@@ -674,7 +674,7 @@
                 "last_commit": "2026-08-12T09:47:06Z",
                 "owner": "ARM-software",
                 "repo": "ComputeLibrary",
-                "stars": 3182
+                "stars": 3183
               }
             },
             {
@@ -1053,7 +1053,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:13:27.926Z",
+    "last_updated": "2026-08-21T21:10:22.049Z",
     "original_repository": "ysh329/embedded-ai.bi-weekly",
     "original_repository_id": 96906262,
     "original_repository_sha": "a201042a3ac64167d1c411e42c2993e30185423e",
