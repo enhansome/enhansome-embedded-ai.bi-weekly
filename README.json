@@ -7,6 +7,78 @@
           "children": [
             {
               "node_type": "item",
+              "title": "[1704.06904] Residual Attention Network for Image Classification",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96872151,
+                "language": null,
+                "last_commit": "2017-07-21T09:28:52Z",
+                "owner": "fwang91",
+                "repo": "residual-attention-network",
+                "stars": 558
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Structure"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[CVPR2017] Local Binary Convolutional Neural Networks",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90444755,
+                "language": "Lua",
+                "last_commit": "2018-11-01T15:06:57Z",
+                "owner": "juefeix",
+                "repo": "lbcnn.torch",
+                "stars": 105
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Binarization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Learning to Prune: Exploring the Frontier of Fast and Accurate Parsing",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74163466,
+                "language": "Python",
+                "last_commit": "2024-09-24T18:11:50Z",
+                "owner": "timvieira",
+                "repo": "learning-to-prune",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Pruning"
+        }
+      ],
+      "title": "Papers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "liuzhuang13/DenseNet: Densely Connected Convolutional Networks, In CVPR 2017 (Best Paper Award)",
               "description": null,
               "children": [],
@@ -129,6 +201,28 @@
           "description": null,
           "node_type": "group",
           "title": "Model Compression"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenMined/Syft: Homomorphically Encrypted Deep Learning Library",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 843133707,
+                "language": "Python",
+                "last_commit": "2026-08-21T05:36:25Z",
+                "owner": "OpenMined",
+                "repo": "syft",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Model Encryption"
         },
         {
           "children": [
@@ -380,10 +474,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-23T18:16:01Z",
+                "last_commit": "2026-08-24T14:22:47Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197374
+                "stars": 197385
               }
             },
             {
@@ -459,6 +553,21 @@
                 "owner": "mtmd",
                 "repo": "Mobile_ConvNet",
                 "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "madeye/yolo-android: Quantized Tiny Yolo Demo on Android",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 94838467,
+                "language": "C++",
+                "last_commit": "2017-06-20T01:57:57Z",
+                "owner": "madeye",
+                "repo": "yolo-android",
+                "stars": 30
               }
             }
           ],
@@ -592,7 +701,7 @@
                 "last_commit": "2026-08-18T05:47:03Z",
                 "owner": "SaschaWillems",
                 "repo": "Vulkan",
-                "stars": 12123
+                "stars": 12126
               }
             },
             {
@@ -644,7 +753,7 @@
                 "last_commit": "2026-08-18T08:40:18Z",
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23734
+                "stars": 23738
               }
             },
             {
@@ -689,7 +798,7 @@
                 "last_commit": "2024-06-01T16:49:37Z",
                 "owner": "microsoft",
                 "repo": "ELL",
-                "stars": 2303
+                "stars": 2302
               }
             },
             {
@@ -806,6 +915,21 @@
           "children": [
             {
               "node_type": "item",
+              "title": "baidu-research/DeepBench: Benchmarking Deep Learning operations on different hardware",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69068565,
+                "language": "C++",
+                "last_commit": "2021-04-25T09:13:47Z",
+                "owner": "baidu-research",
+                "repo": "DeepBench",
+                "stars": 1106
+              }
+            },
+            {
+              "node_type": "item",
               "title": "DeepMark/deepmark: THE Deep Learning Benchmarks",
               "description": null,
               "children": [],
@@ -843,6 +967,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "NervanaSystems/caffe2neon: Tools to convert Caffe models to neon's serialization format",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 51257700,
+                "language": "Python",
+                "last_commit": "2023-01-03T22:54:00Z",
+                "owner": "NervanaSystems",
+                "repo": "caffe2neon",
+                "stars": 38
+              }
+            }
+          ],
+          "description": "Model convertor. More convertors please refer deep-learning-model-convertor",
+          "node_type": "group",
+          "title": "Convertor"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "pili-engineering/PLDroidPlayer: PLDroidPlayer 是 Pili 直播 SDK 的安卓播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。",
               "description": null,
               "children": [],
@@ -868,7 +1014,7 @@
                 "last_commit": "2026-07-22T07:45:39Z",
                 "owner": "MTG",
                 "repo": "essentia",
-                "stars": 3699
+                "stars": 3700
               }
             },
             {
@@ -1053,7 +1199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:03:41.766Z",
+    "last_updated": "2026-08-24T14:28:52.026Z",
     "original_repository": "ysh329/embedded-ai.bi-weekly",
     "original_repository_id": 96906262,
     "original_repository_sha": "a201042a3ac64167d1c411e42c2993e30185423e",
