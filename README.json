@@ -213,7 +213,7 @@
                 "archived": false,
                 "id": 843133707,
                 "language": "Python",
-                "last_commit": "2026-08-21T05:36:25Z",
+                "last_commit": "2026-08-25T12:40:18Z",
                 "owner": "OpenMined",
                 "repo": "syft",
                 "stars": 22
@@ -380,7 +380,7 @@
                 "last_commit": "2026-06-02T22:18:49Z",
                 "owner": "AndrewHartAR",
                 "repo": "ARKit-CoreLocation",
-                "stars": 5528
+                "stars": 5527
               }
             },
             {
@@ -474,10 +474,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-25T06:21:02Z",
+                "last_commit": "2026-08-25T21:10:25Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197613
+                "stars": 197630
               }
             },
             {
@@ -701,7 +701,7 @@
                 "last_commit": "2026-08-18T05:47:03Z",
                 "owner": "SaschaWillems",
                 "repo": "Vulkan",
-                "stars": 12127
+                "stars": 12126
               }
             },
             {
@@ -753,7 +753,7 @@
                 "last_commit": "2026-08-25T03:21:15Z",
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23740
+                "stars": 23742
               }
             },
             {
@@ -1014,7 +1014,7 @@
                 "last_commit": "2026-07-22T07:45:39Z",
                 "owner": "MTG",
                 "repo": "essentia",
-                "stars": 3701
+                "stars": 3702
               }
             },
             {
@@ -1199,7 +1199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:21:27.449Z",
+    "last_updated": "2026-08-25T21:13:00.661Z",
     "original_repository": "ysh329/embedded-ai.bi-weekly",
     "original_repository_id": 96906262,
     "original_repository_sha": "a201042a3ac64167d1c411e42c2993e30185423e",
