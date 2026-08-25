@@ -474,10 +474,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-24T21:11:13Z",
+                "last_commit": "2026-08-25T06:21:02Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197557
+                "stars": 197613
               }
             },
             {
@@ -701,7 +701,7 @@
                 "last_commit": "2026-08-18T05:47:03Z",
                 "owner": "SaschaWillems",
                 "repo": "Vulkan",
-                "stars": 12126
+                "stars": 12127
               }
             },
             {
@@ -750,10 +750,10 @@
                 "archived": false,
                 "id": 95879426,
                 "language": "C++",
-                "last_commit": "2026-08-18T08:40:18Z",
+                "last_commit": "2026-08-25T03:21:15Z",
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23738
+                "stars": 23740
               }
             },
             {
@@ -1199,7 +1199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:14:49.257Z",
+    "last_updated": "2026-08-25T06:21:27.449Z",
     "original_repository": "ysh329/embedded-ai.bi-weekly",
     "original_repository_id": 96906262,
     "original_repository_sha": "a201042a3ac64167d1c411e42c2993e30185423e",
