@@ -213,7 +213,7 @@
                 "archived": false,
                 "id": 843133707,
                 "language": "Python",
-                "last_commit": "2026-08-25T12:40:18Z",
+                "last_commit": "2026-08-26T19:56:50Z",
                 "owner": "OpenMined",
                 "repo": "syft",
                 "stars": 22
@@ -474,10 +474,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-25T21:10:25Z",
+                "last_commit": "2026-08-27T00:14:21Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197630
+                "stars": 197638
               }
             },
             {
@@ -649,7 +649,7 @@
                 "last_commit": "2017-08-05T20:30:13Z",
                 "owner": "kingreza",
                 "repo": "SeeFood",
-                "stars": 448
+                "stars": 449
               }
             },
             {
@@ -701,7 +701,7 @@
                 "last_commit": "2026-08-18T05:47:03Z",
                 "owner": "SaschaWillems",
                 "repo": "Vulkan",
-                "stars": 12126
+                "stars": 12127
               }
             },
             {
@@ -716,7 +716,7 @@
                 "last_commit": "2023-02-25T22:17:23Z",
                 "owner": "ARM-software",
                 "repo": "vulkan-sdk",
-                "stars": 244
+                "stars": 243
               }
             },
             {
@@ -753,7 +753,7 @@
                 "last_commit": "2026-08-25T03:21:15Z",
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23742
+                "stars": 23753
               }
             },
             {
@@ -768,7 +768,7 @@
                 "last_commit": "2023-10-25T21:28:33Z",
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20810
+                "stars": 20811
               }
             },
             {
@@ -783,7 +783,7 @@
                 "last_commit": "2026-08-12T09:47:06Z",
                 "owner": "ARM-software",
                 "repo": "ComputeLibrary",
-                "stars": 3182
+                "stars": 3183
               }
             },
             {
@@ -828,7 +828,7 @@
                 "last_commit": "2019-11-12T01:49:55Z",
                 "owner": "JDAI-CV",
                 "repo": "dabnn",
-                "stars": 774
+                "stars": 773
               }
             },
             {
@@ -1014,7 +1014,7 @@
                 "last_commit": "2026-07-22T07:45:39Z",
                 "owner": "MTG",
                 "repo": "essentia",
-                "stars": 3702
+                "stars": 3705
               }
             },
             {
@@ -1199,7 +1199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:13:00.661Z",
+    "last_updated": "2026-08-27T00:17:34.406Z",
     "original_repository": "ysh329/embedded-ai.bi-weekly",
     "original_repository_id": 96906262,
     "original_repository_sha": "a201042a3ac64167d1c411e42c2993e30185423e",
