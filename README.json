@@ -224,7 +224,7 @@
                 "archived": false,
                 "id": 843133707,
                 "language": "Python",
-                "last_commit": "2026-08-27T23:13:04Z",
+                "last_commit": "2026-08-29T01:15:42Z",
                 "owner": "OpenMined",
                 "repo": "syft",
                 "stars": 22
@@ -501,10 +501,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-28T04:45:37Z",
+                "last_commit": "2026-08-29T02:53:03Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197749
+                "stars": 197768
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
             },
@@ -739,10 +739,10 @@
                 "archived": false,
                 "id": 37821236,
                 "language": "GLSL",
-                "last_commit": "2026-08-18T05:47:03Z",
+                "last_commit": "2026-08-28T10:37:49Z",
                 "owner": "SaschaWillems",
                 "repo": "Vulkan",
-                "stars": 12128
+                "stars": 12129
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
             },
@@ -794,10 +794,10 @@
                 "archived": false,
                 "id": 95879426,
                 "language": "C++",
-                "last_commit": "2026-08-25T03:21:15Z",
+                "last_commit": "2026-08-28T12:35:36Z",
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23756
+                "stars": 23762
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
             },
@@ -829,7 +829,7 @@
                 "last_commit": "2026-08-27T13:32:39Z",
                 "owner": "ARM-software",
                 "repo": "ComputeLibrary",
-                "stars": 3183
+                "stars": 3185
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
             },
@@ -1074,7 +1074,7 @@
                 "last_commit": "2026-08-27T18:31:38Z",
                 "owner": "MTG",
                 "repo": "essentia",
-                "stars": 3706
+                "stars": 3708
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
             },
@@ -1271,7 +1271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:55:21.820Z",
+    "last_updated": "2026-08-29T02:55:27.739Z",
     "original_repository_info": {
       "archived": false,
       "id": 96906262,
