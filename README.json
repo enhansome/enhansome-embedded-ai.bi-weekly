@@ -317,7 +317,7 @@
                 "id": 843133707,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T01:15:42Z",
+                "last_commit": "2026-08-30T05:14:07Z",
                 "open_issues": 41,
                 "owner": "OpenMined",
                 "repo": "syft",
@@ -562,7 +562,7 @@
                 "open_issues": 51,
                 "owner": "AndrewHartAR",
                 "repo": "ARKit-CoreLocation",
-                "stars": 5527,
+                "stars": 5526,
                 "topics": [
                   "arkit",
                   "augmented-reality",
@@ -720,11 +720,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T21:57:40Z",
-                "open_issues": 2967,
+                "last_commit": "2026-08-30T22:16:05Z",
+                "open_issues": 2990,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 198017,
+                "stars": 198069,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1191,7 +1191,7 @@
                 "open_issues": 1230,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23763,
+                "stars": 23767,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -1896,7 +1896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:49:27.199Z",
+    "last_updated": "2026-08-30T22:57:04.147Z",
     "original_repository_info": {
       "archived": false,
       "description": "Weekly report and awesome list of embedded-ai.",
