@@ -256,7 +256,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Model Encryption
 
-* [OpenMined/Syft: Homomorphically Encrypted Deep Learning Library](https://github.com/OpenMined/syft) ⭐ 22 | 🐛 41 | 🌐 Python | 📅 2026-08-31
+* [OpenMined/Syft: Homomorphically Encrypted Deep Learning Library](https://github.com/OpenMined/syft) ⭐ 22 | 🐛 41 | 🌐 Python | 📅 2026-09-01
 
 ## Model Application
 
@@ -281,7 +281,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Android
 
-* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) ⭐ 198,094 | 🐛 2,983 | 🌐 C++ | 📅 2026-08-31
+* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) ⭐ 198,350 | 🐛 3,015 | 🌐 C++ | 📅 2026-09-01
 * [bwasti/AICamera: Demonstration of using Caffe2 inside an Android application.](https://github.com/bwasti/AICamera) ⚠️ Archived
 * [KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.](https://github.com/KleinYuan/Caffe2-iOS) ⭐ 225 | 🐛 5 | 🌐 C++ | 📅 2017-08-27
 * [MXNet Android Classification App - Image classification on Android with MXNet.](https://github.com/Leliana/WhatsThis) ⭐ 192 | 🐛 6 | 🌐 Java | 📅 2015-11-11
@@ -304,17 +304,17 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Vulkan
 
-* [SaschaWillems/Vulkan: Examples and demos for the new Vulkan API](https://github.com/SaschaWillems/Vulkan) ⭐ 12,131 | 🐛 17 | 🌐 GLSL | 📅 2026-08-28
+* [SaschaWillems/Vulkan: Examples and demos for the new Vulkan API](https://github.com/SaschaWillems/Vulkan) ⭐ 12,135 | 🐛 17 | 🌐 GLSL | 📅 2026-08-28
 * [ARM-software/vulkan-sdk: ARM Vulkan SDK](https://github.com/ARM-software/vulkan-sdk) ⭐ 244 | 🐛 6 | 🌐 C | 📅 2023-02-25
 * [alexhultman/libvc: Vulkan Compute for C++ (experimentation project)](https://github.com/alexhultman/libvc) ⭐ 141 | 🐛 2 | 🌐 C++ | 📅 2022-01-08
 
 ## Frameworks & Acceleration Library
 
-* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) ⭐ 23,770 | 🐛 1,230 | 🌐 C++ | 📅 2026-08-28
+* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) ⭐ 23,776 | 🐛 1,233 | 🌐 C++ | 📅 2026-09-01
 * [Deep Learning in a Single File for Smart Devices — mxnet](https://github.com/dmlc/mxnet/tree/master/amalgamation) ⚠️ Archived
-* [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary) ⭐ 3,186 | 🐛 3 | 🌐 C++ | 📅 2026-08-27 [Intro](https://developer.arm.com/technologies/compute-library)
+* [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary) ⭐ 3,187 | 🐛 3 | 🌐 C++ | 📅 2026-09-01 [Intro](https://developer.arm.com/technologies/compute-library)
 * [Microsoft Embedded Learning Library](https://github.com/Microsoft/ELL) ⚠️ Archived
-* [mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn) ⭐ 1,999 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-28
+* [mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn) ⭐ 2,000 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-28
 * [JDAI-CV/dabnn: dabnn is an accelerated binary neural networks inference framework for mobile platform](https://github.com/JDAI-CV/dabnn) ⭐ 773 | 🐛 17 | 🌐 C++ | 📅 2019-11-12
 * [jiaxiang-wu/quantized-cnn: An efficient framework for convolutional neural networks](https://github.com/jiaxiang-wu/quantized-cnn) ⭐ 277 | 🐛 3 | 🌐 C++ | 📅 2023-08-30
 * [Apple CoreML](https://developer.apple.com/documentation/coreml)
@@ -340,9 +340,9 @@ Model convertor. More convertors please refer [deep-learning-model-convertor](ht
 ## Mobile Video Process Library/Player
 
 * [pili-engineering/PLDroidPlayer: PLDroidPlayer 是 Pili 直播 SDK 的安卓播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLDroidPlayer) ⭐ 4,503 | 🐛 363 | 📅 2025-09-05
-* [MTG/essentia: C++ library for audio and music analysis, description and synthesis, including Python bindings](https://github.com/MTG/essentia) ⭐ 3,709 | 🐛 435 | 🌐 C++ | 📅 2026-08-27
-* [pili-engineering/PLPlayerKit: PLPlayerKit 是 Pili 直播 SDK 的 iOS 播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLPlayerKit) ⭐ 1,982 | 🐛 84 | 📅 2025-09-05
-* [pili-engineering/PLPlayerKit: PLPlayerKit 是 Pili 直播 SDK 的 iOS 播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLPlayerKit) ⭐ 1,982 | 🐛 84 | 📅 2025-09-05
+* [MTG/essentia: C++ library for audio and music analysis, description and synthesis, including Python bindings](https://github.com/MTG/essentia) ⭐ 3,711 | 🐛 435 | 🌐 C++ | 📅 2026-08-27
+* [pili-engineering/PLPlayerKit: PLPlayerKit 是 Pili 直播 SDK 的 iOS 播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLPlayerKit) ⭐ 1,981 | 🐛 84 | 📅 2025-09-05
+* [pili-engineering/PLPlayerKit: PLPlayerKit 是 Pili 直播 SDK 的 iOS 播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLPlayerKit) ⭐ 1,981 | 🐛 84 | 📅 2025-09-05
 * [pili-engineering/PLDroidShortVideo: PLDroidShortVideo 是七牛推出的一款适用于 Android 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、本地/云端存储在内的多种功能，支持高度定制以及二次开发。](https://github.com/pili-engineering/PLDroidShortVideo) ⭐ 1,716 | 🐛 122 | 🌐 Java | 📅 2024-05-17
 * [pili-engineering/PLDroidMediaStreaming: PLDroidMediaStreaming 是 Pili 直播 SDK 的 Android 推流端，支持 RTMP 推流，h.264 和 AAC 编码，硬编、软编支持。具有丰富的数据和状态回调，方便用户根据自己的业务定制化开发。具有直播场景下的重要功能，如：美颜、背景音乐、水印等功能。PLDroidMediaStreaming 是现在目前重点维护的版本，自带采集模块也支持用户自己做采集端。](https://github.com/pili-engineering/PLDroidMediaStreaming) ⭐ 1,449 | 🐛 139 | 🌐 Java | 📅 2024-03-13
 * [pili-engineering/PLMediaStreamingKit: PLMediaStreamingKit 是 Pili 直播 SDK 的 iOS 推流端，支持 RTMP 推流，h.264 和 AAC 编码，硬编、软编支持。具有丰富的数据和状态回调，方便用户根据自己的业务定制化开发。具有直播场景下的重要功能，如：美颜、背景音乐、水印等功能。](https://github.com/pili-engineering/PLMediaStreamingKit) ⭐ 543 | 🐛 8 | 🌐 Objective-C | 📅 2024-05-31
