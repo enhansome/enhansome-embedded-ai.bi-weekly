@@ -281,7 +281,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Android
 
-* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) ⭐ 198,361 | 🐛 3,021 | 🌐 C++ | 📅 2026-09-02
+* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) ⭐ 198,793 | 🐛 3,062 | 🌐 C++ | 📅 2026-09-03
 * [bwasti/AICamera: Demonstration of using Caffe2 inside an Android application.](https://github.com/bwasti/AICamera) ⚠️ Archived
 * [KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.](https://github.com/KleinYuan/Caffe2-iOS) ⭐ 225 | 🐛 5 | 🌐 C++ | 📅 2017-08-27
 * [MXNet Android Classification App - Image classification on Android with MXNet.](https://github.com/Leliana/WhatsThis) ⭐ 192 | 🐛 6 | 🌐 Java | 📅 2015-11-11
@@ -304,13 +304,13 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Vulkan
 
-* [SaschaWillems/Vulkan: Examples and demos for the new Vulkan API](https://github.com/SaschaWillems/Vulkan) ⭐ 12,136 | 🐛 17 | 🌐 GLSL | 📅 2026-08-28
+* [SaschaWillems/Vulkan: Examples and demos for the new Vulkan API](https://github.com/SaschaWillems/Vulkan) ⭐ 12,138 | 🐛 17 | 🌐 GLSL | 📅 2026-08-28
 * [ARM-software/vulkan-sdk: ARM Vulkan SDK](https://github.com/ARM-software/vulkan-sdk) ⭐ 244 | 🐛 6 | 🌐 C | 📅 2023-02-25
 * [alexhultman/libvc: Vulkan Compute for C++ (experimentation project)](https://github.com/alexhultman/libvc) ⭐ 141 | 🐛 2 | 🌐 C++ | 📅 2022-01-08
 
 ## Frameworks & Acceleration Library
 
-* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) ⭐ 23,779 | 🐛 1,239 | 🌐 C++ | 📅 2026-09-02
+* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) ⭐ 23,784 | 🐛 1,244 | 🌐 C++ | 📅 2026-09-02
 * [Deep Learning in a Single File for Smart Devices — mxnet](https://github.com/dmlc/mxnet/tree/master/amalgamation) ⚠️ Archived
 * [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary) ⭐ 3,187 | 🐛 3 | 🌐 C++ | 📅 2026-09-01 [Intro](https://developer.arm.com/technologies/compute-library)
 * [Microsoft Embedded Learning Library](https://github.com/Microsoft/ELL) ⚠️ Archived
@@ -340,7 +340,7 @@ Model convertor. More convertors please refer [deep-learning-model-convertor](ht
 ## Mobile Video Process Library/Player
 
 * [pili-engineering/PLDroidPlayer: PLDroidPlayer 是 Pili 直播 SDK 的安卓播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLDroidPlayer) ⭐ 4,503 | 🐛 363 | 📅 2025-09-05
-* [MTG/essentia: C++ library for audio and music analysis, description and synthesis, including Python bindings](https://github.com/MTG/essentia) ⭐ 3,711 | 🐛 434 | 🌐 C++ | 📅 2026-08-27
+* [MTG/essentia: C++ library for audio and music analysis, description and synthesis, including Python bindings](https://github.com/MTG/essentia) ⭐ 3,710 | 🐛 436 | 🌐 C++ | 📅 2026-08-27
 * [pili-engineering/PLPlayerKit: PLPlayerKit 是 Pili 直播 SDK 的 iOS 播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLPlayerKit) ⭐ 1,981 | 🐛 84 | 📅 2025-09-05
 * [pili-engineering/PLPlayerKit: PLPlayerKit 是 Pili 直播 SDK 的 iOS 播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLPlayerKit) ⭐ 1,981 | 🐛 84 | 📅 2025-09-05
 * [pili-engineering/PLDroidShortVideo: PLDroidShortVideo 是七牛推出的一款适用于 Android 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、本地/云端存储在内的多种功能，支持高度定制以及二次开发。](https://github.com/pili-engineering/PLDroidShortVideo) ⭐ 1,716 | 🐛 122 | 🌐 Java | 📅 2024-05-17
@@ -351,7 +351,7 @@ Model convertor. More convertors please refer [deep-learning-model-convertor](ht
 
 ## Other Toolkit
 
-* [Samsung/iotjs: Platform for Internet of Things with JavaScript](http://www.iotjs.net) [code](https://github.com/Samsung/iotjs) ⭐ 2,600 | 🐛 52 | 🌐 C | 📅 2021-06-18
+* [Samsung/iotjs: Platform for Internet of Things with JavaScript](http://www.iotjs.net) [code](https://github.com/Samsung/iotjs) ⭐ 2,599 | 🐛 52 | 🌐 C | 📅 2021-06-18
 * [hollance/Forge: A neural network toolkit for Metal](https://github.com/hollance/Forge) ⭐ 1,264 | 🐛 3 | 🌐 Swift | 📅 2018-05-18
 * [christopher5106/FastAnnotationTool: A tool using OpenCV to annotate images for image classification, optical character reading, etc.](https://github.com/christopher5106/FastAnnotationTool) ⭐ 951 | 🐛 7 | 🌐 C++ | 📅 2019-01-17  
 * [facebook/fb-caffe-exts: Some handy utility libraries and tools for the Caffe deep learning framework.](https://github.com/facebook/fb-caffe-exts) ⚠️ Archived
@@ -427,4 +427,4 @@ This part contains related course, guides and tutorials.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
