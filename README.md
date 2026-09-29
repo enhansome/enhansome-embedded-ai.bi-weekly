@@ -256,7 +256,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Model Encryption
 
-* [OpenMined/Syft: Homomorphically Encrypted Deep Learning Library](https://github.com/OpenMined/syft) ⭐ 22 | 🐛 42 | 🌐 Python | 📅 2026-09-25
+* [OpenMined/Syft: Homomorphically Encrypted Deep Learning Library](https://github.com/OpenMined/syft) ⭐ 22 | 🐛 42 | 🌐 Python | 📅 2026-09-29
 
 ## Model Application
 
@@ -281,7 +281,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Android
 
-* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) ⭐ 200,592 | 🐛 3,333 | 🌐 C++ | 📅 2026-09-29
+* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) ⭐ 200,624 | 🐛 3,294 | 🌐 C++ | 📅 2026-09-29
 * [bwasti/AICamera: Demonstration of using Caffe2 inside an Android application.](https://github.com/bwasti/AICamera) ⚠️ Archived
 * [KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.](https://github.com/KleinYuan/Caffe2-iOS) ⭐ 225 | 🐛 5 | 🌐 C++ | 📅 2017-08-27
 * [MXNet Android Classification App - Image classification on Android with MXNet.](https://github.com/Leliana/WhatsThis) ⭐ 192 | 🐛 6 | 🌐 Java | 📅 2015-11-11
@@ -304,15 +304,15 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Vulkan
 
-* [SaschaWillems/Vulkan: Examples and demos for the new Vulkan API](https://github.com/SaschaWillems/Vulkan) ⭐ 12,160 | 🐛 18 | 🌐 GLSL | 📅 2026-09-20
+* [SaschaWillems/Vulkan: Examples and demos for the new Vulkan API](https://github.com/SaschaWillems/Vulkan) ⭐ 12,162 | 🐛 18 | 🌐 GLSL | 📅 2026-09-20
 * [ARM-software/vulkan-sdk: ARM Vulkan SDK](https://github.com/ARM-software/vulkan-sdk) ⭐ 244 | 🐛 6 | 🌐 C | 📅 2023-02-25
 * [alexhultman/libvc: Vulkan Compute for C++ (experimentation project)](https://github.com/alexhultman/libvc) ⭐ 141 | 🐛 2 | 🌐 C++ | 📅 2022-01-08
 
 ## Frameworks & Acceleration Library
 
-* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) ⭐ 23,883 | 🐛 1,212 | 🌐 C++ | 📅 2026-09-24
+* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) ⭐ 23,895 | 🐛 1,214 | 🌐 C++ | 📅 2026-09-24
 * [Deep Learning in a Single File for Smart Devices — mxnet](https://github.com/dmlc/mxnet/tree/master/amalgamation) ⚠️ Archived
-* [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary) ⭐ 3,192 | 🐛 9 | 🌐 C++ | 📅 2026-09-22 [Intro](https://developer.arm.com/technologies/compute-library)
+* [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary) ⭐ 3,194 | 🐛 8 | 🌐 C++ | 📅 2026-09-29 [Intro](https://developer.arm.com/technologies/compute-library)
 * [Microsoft Embedded Learning Library](https://github.com/Microsoft/ELL) ⚠️ Archived
 * [mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn) ⭐ 2,001 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-10
 * [JDAI-CV/dabnn: dabnn is an accelerated binary neural networks inference framework for mobile platform](https://github.com/JDAI-CV/dabnn) ⭐ 774 | 🐛 17 | 🌐 C++ | 📅 2019-11-12
@@ -326,7 +326,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Benchmark
 
-* [baidu-research/DeepBench: Benchmarking Deep Learning operations on different hardware](https://github.com/baidu-research/DeepBench) ⭐ 1,108 | 🐛 23 | 🌐 C++ | 📅 2021-04-25
+* [baidu-research/DeepBench: Benchmarking Deep Learning operations on different hardware](https://github.com/baidu-research/DeepBench) ⭐ 1,109 | 🐛 23 | 🌐 C++ | 📅 2021-04-25
 
 - [DeepMark/deepmark: THE Deep Learning Benchmarks](https://github.com/DeepMark/deepmark) ⭐ 351 | 🐛 4 | 🌐 Lua | 📅 2016-11-02
 - [hollance/BNNS-vs-MPSCNN: Compares the speed of Apple's two deep learning frameworks: BNNS and Metal Performance Shaders](https://github.com/hollance/BNNS-vs-MPSCNN) ⭐ 61 | 🐛 0 | 🌐 Swift | 📅 2017-02-07
@@ -340,7 +340,7 @@ Model convertor. More convertors please refer [deep-learning-model-convertor](ht
 ## Mobile Video Process Library/Player
 
 * [pili-engineering/PLDroidPlayer: PLDroidPlayer 是 Pili 直播 SDK 的安卓播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLDroidPlayer) ⭐ 4,504 | 🐛 363 | 📅 2025-09-05
-* [MTG/essentia: C++ library for audio and music analysis, description and synthesis, including Python bindings](https://github.com/MTG/essentia) ⭐ 3,750 | 🐛 440 | 🌐 C++ | 📅 2026-09-21
+* [MTG/essentia: C++ library for audio and music analysis, description and synthesis, including Python bindings](https://github.com/MTG/essentia) ⭐ 3,753 | 🐛 440 | 🌐 C++ | 📅 2026-09-21
 * [pili-engineering/PLPlayerKit: PLPlayerKit 是 Pili 直播 SDK 的 iOS 播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLPlayerKit) ⭐ 1,979 | 🐛 84 | 📅 2025-09-05
 * [pili-engineering/PLPlayerKit: PLPlayerKit 是 Pili 直播 SDK 的 iOS 播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLPlayerKit) ⭐ 1,979 | 🐛 84 | 📅 2025-09-05
 * [pili-engineering/PLDroidShortVideo: PLDroidShortVideo 是七牛推出的一款适用于 Android 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、本地/云端存储在内的多种功能，支持高度定制以及二次开发。](https://github.com/pili-engineering/PLDroidShortVideo) ⭐ 1,714 | 🐛 122 | 🌐 Java | 📅 2024-05-17
