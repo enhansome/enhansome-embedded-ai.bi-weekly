@@ -250,7 +250,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 * [yonghenglh6/DepthwiseConvolution: A personal mobile convolution implementation on caffe by liuhao.(only GPU)](https://github.com/yonghenglh6/DepthwiseConvolution) ⭐ 526 | 🐛 9 | 🌐 Cuda | 📅 2021-05-21
 * [kedartatwawadi/NN\_compression](https://github.com/kedartatwawadi/NN_compression) ⭐ 216 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2019-09-05
 * [AngusG/tensorflow-xnor-bnn: BinaryNets in TensorFlow with XNOR GEMM op](https://github.com/AngusG/tensorflow-xnor-bnn) ⭐ 155 | 🐛 10 | 🌐 C++ | 📅 2017-08-23  
-* [farmingyard/caffe-mobilenet: A caffe implementation of mobilenet's depthwise convolution layer](https://github.com/farmingyard/caffe-mobilenet) ⭐ 145 | 🐛 10 | 🌐 C++ | 📅 2017-07-31  
+* [farmingyard/caffe-mobilenet: A caffe implementation of mobilenet's depthwise convolution layer](https://github.com/farmingyard/caffe-mobilenet) ⭐ 146 | 🐛 10 | 🌐 C++ | 📅 2017-07-31  
 * [jonathanmarek1/binarynet-tensorflow](https://github.com/jonathanmarek1/binarynet-tensorflow) ⭐ 62 | 🐛 9 | 🌐 C | 📅 2018-03-15
 * [kevinzakka/DenseNet: PyTorch Implementation of "Densely Connected Convolutional Networks"](https://github.com/kevinzakka/DenseNet)
 
@@ -260,7 +260,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Model Application
 
-* [msracver/FCIS: Fully Convolutional Instance-aware Semantic Segmentation](https://github.com/msracver/FCIS) ⭐ 1,560 | 🐛 92 | 🌐 Cuda | 📅 2021-09-27
+* [msracver/FCIS: Fully Convolutional Instance-aware Semantic Segmentation](https://github.com/msracver/FCIS) ⭐ 1,561 | 🐛 92 | 🌐 Cuda | 📅 2021-09-27
 * [Seanlinx/mtcnn: this repository is the implementation of MTCNN in MXnet](https://github.com/Seanlinx/mtcnn) ⭐ 586 | 🐛 59 | 🌐 Python | 📅 2017-07-08
 * [CongWeilin/mtcnn-caffe: Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks](https://github.com/CongWeilin/mtcnn-caffe) ⭐ 493 | 🐛 52 | 🌐 Python | 📅 2018-10-01  
 * [foreverYoungGitHub/MTCNN: Repository for "Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks", implemented with Caffe, C++ interface.](https://github.com/foreverYoungGitHub/MTCNN) ⭐ 328 | 🐛 37 | 🌐 C++ | 📅 2018-03-19
@@ -281,7 +281,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Android
 
-* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) ⭐ 200,645 | 🐛 3,223 | 🌐 C++ | 📅 2026-10-01
+* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) ⭐ 200,657 | 🐛 3,243 | 🌐 C++ | 📅 2026-10-01
 * [bwasti/AICamera: Demonstration of using Caffe2 inside an Android application.](https://github.com/bwasti/AICamera) ⚠️ Archived
 * [KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.](https://github.com/KleinYuan/Caffe2-iOS) ⭐ 225 | 🐛 5 | 🌐 C++ | 📅 2017-08-27
 * [MXNet Android Classification App - Image classification on Android with MXNet.](https://github.com/Leliana/WhatsThis) ⭐ 192 | 🐛 6 | 🌐 Java | 📅 2015-11-11
@@ -293,13 +293,13 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 ## iOS
 
 * [KimDarren/FaceCropper: Crop faces, inside of your image, with iOS 11 Vision api.](https://github.com/KimDarren/FaceCropper) ⚠️ Archived
-* [hollance/TensorFlow-iOS-Example: Source code for my blog post "Getting started with TensorFlow on iOS"](https://github.com/hollance/TensorFlow-iOS-Example) ⭐ 438 | 🐛 8 | 🌐 Swift | 📅 2017-03-06
+* [hollance/TensorFlow-iOS-Example: Source code for my blog post "Getting started with TensorFlow on iOS"](https://github.com/hollance/TensorFlow-iOS-Example) ⭐ 437 | 🐛 8 | 🌐 Swift | 📅 2017-03-06
 * [KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.](https://github.com/KleinYuan/Caffe2-iOS) ⭐ 225 | 🐛 5 | 🌐 C++ | 📅 2017-08-27
 * [MXNet iOS Classification App - Image classification on iOS with MXNet.](https://github.com/pppoe/WhatsThis-iOS) ⭐ 113 | 🐛 6 | 🌐 C++ | 📅 2016-03-26
 * [Compile MXnet on Xcode (in Chinese) - a step-by-step tutorial of compiling MXnet on Xcode for iOS app](http://www.liuxiao.org/2015/12/ios-mxnet-%E7%9A%84-ios-%E7%89%88%E6%9C%AC%E7%BC%96%E8%AF%91/)
 
 - [kingreza/SeeFood: Inspired by HBO's Silicon Valley: SeeFood is an iOS app that uses CoreML to detect various dishes](https://github.com/kingreza/SeeFood) ⭐ 449 | 🐛 2 | 🌐 Swift | 📅 2017-08-05
-- [hollance/TensorFlow-iOS-Example: Source code for my blog post "Getting started with TensorFlow on iOS"](https://github.com/hollance/TensorFlow-iOS-Example) ⭐ 438 | 🐛 8 | 🌐 Swift | 📅 2017-03-06
+- [hollance/TensorFlow-iOS-Example: Source code for my blog post "Getting started with TensorFlow on iOS"](https://github.com/hollance/TensorFlow-iOS-Example) ⭐ 437 | 🐛 8 | 🌐 Swift | 📅 2017-03-06
 - [Naituw/CoreMLDemo: Demo for CoreML & Vision Framework](https://github.com/Naituw/CoreMLDemo) ⭐ 151 | 🐛 3 | 🌐 Objective-C | 📅 2019-05-23
 
 ## Vulkan
@@ -310,16 +310,16 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Frameworks & Acceleration Library
 
-* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) ⭐ 23,904 | 🐛 1,217 | 🌐 C++ | 📅 2026-09-24
+* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) ⭐ 23,907 | 🐛 1,219 | 🌐 C++ | 📅 2026-10-01
 * [Deep Learning in a Single File for Smart Devices — mxnet](https://github.com/dmlc/mxnet/tree/master/amalgamation) ⚠️ Archived
-* [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary) ⭐ 3,194 | 🐛 8 | 🌐 C++ | 📅 2026-09-29 [Intro](https://developer.arm.com/technologies/compute-library)
+* [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary) ⭐ 3,195 | 🐛 8 | 🌐 C++ | 📅 2026-09-29 [Intro](https://developer.arm.com/technologies/compute-library)
 * [Microsoft Embedded Learning Library](https://github.com/Microsoft/ELL) ⚠️ Archived
 * [mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn) ⭐ 2,001 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-10
 * [JDAI-CV/dabnn: dabnn is an accelerated binary neural networks inference framework for mobile platform](https://github.com/JDAI-CV/dabnn) ⭐ 774 | 🐛 17 | 🌐 C++ | 📅 2019-11-12
 * [jiaxiang-wu/quantized-cnn: An efficient framework for convolutional neural networks](https://github.com/jiaxiang-wu/quantized-cnn) ⭐ 277 | 🐛 3 | 🌐 C++ | 📅 2023-08-30
 * [Apple CoreML](https://developer.apple.com/documentation/coreml)
 
-- [blei-lab/edward: A library for probabilistic modeling, inference, and criticism. Deep generative models, variational inference. Runs on TensorFlow](https://github.com/blei-lab/edward) ⭐ 4,843 | 🐛 219 | 🌐 Jupyter Notebook | 📅 2024-03-18
+- [blei-lab/edward: A library for probabilistic modeling, inference, and criticism. Deep generative models, variational inference. Runs on TensorFlow](https://github.com/blei-lab/edward) ⭐ 4,842 | 🐛 219 | 🌐 Jupyter Notebook | 📅 2024-03-18
 - [Darknet with NNPACK: NNPACK was used to optimize Darknet without using a GPU. It is useful for embedded devices using ARM CPUs](https://github.com/thomaspark-pkj/darknet-nnpack) ⭐ 306 | 🐛 42 | 🌐 C | 📅 2022-02-22  
 - [naibaf7/libdnn: Greentea LibDNN - a universal convolution implementation supporting CUDA and OpenCL](https://github.com/naibaf7/libdnn) ⭐ 137 | 🐛 8 | 🌐 C++ | 📅 2017-04-20
 - [dmlc/nnvm-fusion: Kernel Fusion and Runtime Compilation Based on NNVM](https://github.com/dmlc/nnvm-fusion) ⭐ 72 | 🐛 0 | 🌐 C++ | 📅 2016-11-21
@@ -340,7 +340,7 @@ Model convertor. More convertors please refer [deep-learning-model-convertor](ht
 ## Mobile Video Process Library/Player
 
 * [pili-engineering/PLDroidPlayer: PLDroidPlayer 是 Pili 直播 SDK 的安卓播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLDroidPlayer) ⭐ 4,504 | 🐛 363 | 📅 2025-09-05
-* [MTG/essentia: C++ library for audio and music analysis, description and synthesis, including Python bindings](https://github.com/MTG/essentia) ⭐ 3,754 | 🐛 439 | 🌐 C++ | 📅 2026-09-30
+* [MTG/essentia: C++ library for audio and music analysis, description and synthesis, including Python bindings](https://github.com/MTG/essentia) ⭐ 3,755 | 🐛 439 | 🌐 C++ | 📅 2026-09-30
 * [pili-engineering/PLPlayerKit: PLPlayerKit 是 Pili 直播 SDK 的 iOS 播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLPlayerKit) ⭐ 1,979 | 🐛 84 | 📅 2025-09-05
 * [pili-engineering/PLPlayerKit: PLPlayerKit 是 Pili 直播 SDK 的 iOS 播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLPlayerKit) ⭐ 1,979 | 🐛 84 | 📅 2025-09-05
 * [pili-engineering/PLDroidShortVideo: PLDroidShortVideo 是七牛推出的一款适用于 Android 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、本地/云端存储在内的多种功能，支持高度定制以及二次开发。](https://github.com/pili-engineering/PLDroidShortVideo) ⭐ 1,714 | 🐛 122 | 🌐 Java | 📅 2024-05-17
@@ -427,4 +427,4 @@ This part contains related course, guides and tutorials.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
