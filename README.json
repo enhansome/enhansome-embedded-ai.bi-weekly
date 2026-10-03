@@ -317,7 +317,7 @@
                 "id": 843133707,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T01:05:21Z",
+                "last_commit": "2026-10-03T17:55:33Z",
                 "open_issues": 42,
                 "owner": "OpenMined",
                 "repo": "syft",
@@ -589,7 +589,7 @@
                 "open_issues": 1,
                 "owner": "exyte",
                 "repo": "ARTetris",
-                "stars": 1524,
+                "stars": 1523,
                 "topics": [
                   "arkit",
                   "ios",
@@ -616,7 +616,7 @@
                 "open_issues": 4,
                 "owner": "bjarnel",
                 "repo": "arkit-tictactoe",
-                "stars": 388,
+                "stars": 387,
                 "topics": [
                   "arkit",
                   "scenekit",
@@ -720,11 +720,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T04:18:42Z",
-                "open_issues": 3242,
+                "last_commit": "2026-10-03T22:44:20Z",
+                "open_issues": 3259,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 200668,
+                "stars": 200679,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1292,7 +1292,7 @@
                 "open_issues": 33,
                 "owner": "microsoft",
                 "repo": "ELL",
-                "stars": 2302,
+                "stars": 2303,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -1309,8 +1309,8 @@
                 "id": 87403752,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T05:12:40Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-03T05:27:49Z",
+                "open_issues": 3,
                 "owner": "mil-tokyo",
                 "repo": "webdnn",
                 "stars": 2001,
@@ -1896,7 +1896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:44:15.007Z",
+    "last_updated": "2026-10-03T23:23:20.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "Weekly report and awesome list of embedded-ai.",
