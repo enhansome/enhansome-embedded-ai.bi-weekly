@@ -115,7 +115,7 @@
                 "open_issues": 30,
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4870,
+                "stars": 4871,
                 "topics": [
                   "deep-learning"
                 ]
@@ -317,7 +317,7 @@
                 "id": 843133707,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-11T20:36:39Z",
+                "last_commit": "2026-10-13T14:40:51Z",
                 "open_issues": 40,
                 "owner": "OpenMined",
                 "repo": "syft",
@@ -349,7 +349,7 @@
                 "open_issues": 92,
                 "owner": "msracver",
                 "repo": "FCIS",
-                "stars": 1561,
+                "stars": 1562,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -562,7 +562,7 @@
                 "open_issues": 52,
                 "owner": "AndrewHartAR",
                 "repo": "ARKit-CoreLocation",
-                "stars": 5523,
+                "stars": 5525,
                 "topics": [
                   "arkit",
                   "augmented-reality",
@@ -589,7 +589,7 @@
                 "open_issues": 1,
                 "owner": "exyte",
                 "repo": "ARTetris",
-                "stars": 1522,
+                "stars": 1524,
                 "topics": [
                   "arkit",
                   "ios",
@@ -616,7 +616,7 @@
                 "open_issues": 4,
                 "owner": "bjarnel",
                 "repo": "arkit-tictactoe",
-                "stars": 387,
+                "stars": 388,
                 "topics": [
                   "arkit",
                   "scenekit",
@@ -720,11 +720,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T02:10:20Z",
-                "open_issues": 3418,
+                "last_commit": "2026-10-13T23:54:05Z",
+                "open_issues": 3417,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 200903,
+                "stars": 200934,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1187,11 +1187,11 @@
                 "id": 95879426,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T07:27:04Z",
-                "open_issues": 1225,
+                "last_commit": "2026-10-13T05:11:17Z",
+                "open_issues": 1230,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23945,
+                "stars": 23953,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -1233,7 +1233,7 @@
                 "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20802,
+                "stars": 20803,
                 "topics": [
                   "mxnet"
                 ]
@@ -1256,7 +1256,7 @@
                 "open_issues": 6,
                 "owner": "ARM-software",
                 "repo": "ComputeLibrary",
-                "stars": 3198,
+                "stars": 3196,
                 "topics": [
                   "aarch64",
                   "android",
@@ -1292,7 +1292,7 @@
                 "open_issues": 33,
                 "owner": "microsoft",
                 "repo": "ELL",
-                "stars": 2304,
+                "stars": 2305,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -1313,7 +1313,7 @@
                 "open_issues": 4,
                 "owner": "mil-tokyo",
                 "repo": "webdnn",
-                "stars": 2002,
+                "stars": 2003,
                 "topics": [
                   "accelerate",
                   "deep-neural-networks",
@@ -1592,7 +1592,7 @@
                 "open_issues": 363,
                 "owner": "pili-engineering",
                 "repo": "PLDroidPlayer",
-                "stars": 4505,
+                "stars": 4504,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -1686,7 +1686,7 @@
                 "open_issues": 122,
                 "owner": "pili-engineering",
                 "repo": "PLDroidShortVideo",
-                "stars": 1717,
+                "stars": 1718,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -1777,7 +1777,7 @@
                 "open_issues": 52,
                 "owner": "jerryscript-project",
                 "repo": "iotjs",
-                "stars": 2599,
+                "stars": 2601,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -1896,7 +1896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:16:08.741Z",
+    "last_updated": "2026-10-13T23:58:20.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "Weekly report and awesome list of embedded-ai.",
