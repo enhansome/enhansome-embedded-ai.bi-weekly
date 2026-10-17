@@ -115,7 +115,7 @@
                 "open_issues": 30,
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4871,
+                "stars": 4872,
                 "topics": [
                   "deep-learning"
                 ]
@@ -720,11 +720,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T22:50:20Z",
-                "open_issues": 3345,
+                "last_commit": "2026-10-17T22:40:15Z",
+                "open_issues": 3388,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201060,
+                "stars": 201081,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1115,7 +1115,7 @@
                 "open_issues": 17,
                 "owner": "SaschaWillems",
                 "repo": "Vulkan",
-                "stars": 12182,
+                "stars": 12184,
                 "topics": [
                   "glsl",
                   "hlsl",
@@ -1187,11 +1187,11 @@
                 "id": 95879426,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T23:24:59Z",
-                "open_issues": 1258,
+                "last_commit": "2026-10-17T15:26:35Z",
+                "open_issues": 1255,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23965,
+                "stars": 23970,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -1253,7 +1253,7 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-10-06T08:30:19Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "ARM-software",
                 "repo": "ComputeLibrary",
                 "stars": 3196,
@@ -1777,7 +1777,7 @@
                 "open_issues": 52,
                 "owner": "jerryscript-project",
                 "repo": "iotjs",
-                "stars": 2601,
+                "stars": 2600,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -1896,7 +1896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T23:03:44.986Z",
+    "last_updated": "2026-10-17T22:42:18.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "Weekly report and awesome list of embedded-ai.",
