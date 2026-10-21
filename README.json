@@ -317,7 +317,7 @@
                 "id": 843133707,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T19:08:20Z",
+                "last_commit": "2026-10-21T22:47:36Z",
                 "open_issues": 40,
                 "owner": "OpenMined",
                 "repo": "syft",
@@ -415,7 +415,7 @@
                 "open_issues": 37,
                 "owner": "foreverYoungGitHub",
                 "repo": "MTCNN",
-                "stars": 328,
+                "stars": 327,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -720,11 +720,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T23:29:22Z",
-                "open_issues": 3447,
+                "last_commit": "2026-10-21T23:28:59Z",
+                "open_issues": 3460,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201161,
+                "stars": 201172,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1115,7 +1115,7 @@
                 "open_issues": 15,
                 "owner": "SaschaWillems",
                 "repo": "Vulkan",
-                "stars": 12189,
+                "stars": 12187,
                 "topics": [
                   "glsl",
                   "hlsl",
@@ -1163,7 +1163,7 @@
                 "open_issues": 2,
                 "owner": "uNetworking",
                 "repo": "libvc",
-                "stars": 141,
+                "stars": 142,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -1188,10 +1188,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-20T02:51:52Z",
-                "open_issues": 1267,
+                "open_issues": 1272,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23983,
+                "stars": 23986,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -1233,7 +1233,7 @@
                 "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20802,
+                "stars": 20801,
                 "topics": [
                   "mxnet"
                 ]
@@ -1613,7 +1613,7 @@
                 "open_issues": 442,
                 "owner": "MTG",
                 "repo": "essentia",
-                "stars": 3776,
+                "stars": 3777,
                 "topics": [
                   "audio",
                   "audio-analysis",
@@ -1896,7 +1896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T23:29:34.810Z",
+    "last_updated": "2026-10-21T23:43:56.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "Weekly report and awesome list of embedded-ai.",
