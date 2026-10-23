@@ -317,7 +317,7 @@
                 "id": 843133707,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T23:39:46Z",
+                "last_commit": "2026-10-23T19:01:50Z",
                 "open_issues": 40,
                 "owner": "OpenMined",
                 "repo": "syft",
@@ -720,11 +720,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T23:37:21Z",
-                "open_issues": 3425,
+                "last_commit": "2026-10-23T23:06:41Z",
+                "open_issues": 3381,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201184,
+                "stars": 201201,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1187,11 +1187,11 @@
                 "id": 95879426,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T08:39:36Z",
-                "open_issues": 1268,
+                "last_commit": "2026-10-23T03:41:16Z",
+                "open_issues": 1271,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23991,
+                "stars": 23994,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -1256,7 +1256,7 @@
                 "open_issues": 7,
                 "owner": "ARM-software",
                 "repo": "ComputeLibrary",
-                "stars": 3197,
+                "stars": 3198,
                 "topics": [
                   "aarch64",
                   "android",
@@ -1613,7 +1613,7 @@
                 "open_issues": 441,
                 "owner": "MTG",
                 "repo": "essentia",
-                "stars": 3778,
+                "stars": 3779,
                 "topics": [
                   "audio",
                   "audio-analysis",
@@ -1896,7 +1896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T23:40:29.588Z",
+    "last_updated": "2026-10-23T23:34:28.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "Weekly report and awesome list of embedded-ai.",
