@@ -115,7 +115,7 @@
                 "open_issues": 30,
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4872,
+                "stars": 4873,
                 "topics": [
                   "deep-learning"
                 ]
@@ -138,7 +138,7 @@
                 "open_issues": 150,
                 "owner": "chuanqi305",
                 "repo": "MobileNet-SSD",
-                "stars": 2127,
+                "stars": 2125,
                 "topics": [
                   "caffe",
                   "detection",
@@ -562,7 +562,7 @@
                 "open_issues": 52,
                 "owner": "AndrewHartAR",
                 "repo": "ARKit-CoreLocation",
-                "stars": 5526,
+                "stars": 5527,
                 "topics": [
                   "arkit",
                   "augmented-reality",
@@ -720,11 +720,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T18:11:16Z",
-                "open_issues": 3389,
+                "last_commit": "2026-10-25T21:11:06Z",
+                "open_issues": 3403,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201228,
+                "stars": 201250,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1111,7 +1111,7 @@
                 "id": 37821236,
                 "language": "GLSL",
                 "license": "MIT",
-                "last_commit": "2026-10-24T16:59:19Z",
+                "last_commit": "2026-10-25T12:52:48Z",
                 "open_issues": 15,
                 "owner": "SaschaWillems",
                 "repo": "Vulkan",
@@ -1187,11 +1187,11 @@
                 "id": 95879426,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T03:41:16Z",
+                "last_commit": "2026-10-25T15:59:07Z",
                 "open_issues": 1275,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23994,
+                "stars": 23997,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -1382,7 +1382,7 @@
                 "open_issues": 219,
                 "owner": "blei-lab",
                 "repo": "edward",
-                "stars": 4846,
+                "stars": 4847,
                 "topics": [
                   "bayesian-methods",
                   "data-science",
@@ -1613,7 +1613,7 @@
                 "open_issues": 441,
                 "owner": "MTG",
                 "repo": "essentia",
-                "stars": 3780,
+                "stars": 3781,
                 "topics": [
                   "audio",
                   "audio-analysis",
@@ -1644,7 +1644,7 @@
                 "open_issues": 84,
                 "owner": "pili-engineering",
                 "repo": "PLPlayerKit",
-                "stars": 1978,
+                "stars": 1977,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -1665,7 +1665,7 @@
                 "open_issues": 84,
                 "owner": "pili-engineering",
                 "repo": "PLPlayerKit",
-                "stars": 1978,
+                "stars": 1977,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -1686,7 +1686,7 @@
                 "open_issues": 122,
                 "owner": "pili-engineering",
                 "repo": "PLDroidShortVideo",
-                "stars": 1717,
+                "stars": 1716,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -1896,7 +1896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T22:45:27.562Z",
+    "last_updated": "2026-10-25T22:50:19.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "Weekly report and awesome list of embedded-ai.",
