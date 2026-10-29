@@ -317,7 +317,7 @@
                 "id": 843133707,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T01:32:27Z",
+                "last_commit": "2026-10-28T18:35:02Z",
                 "open_issues": 40,
                 "owner": "OpenMined",
                 "repo": "syft",
@@ -720,11 +720,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T23:49:27Z",
-                "open_issues": 3430,
+                "last_commit": "2026-10-29T00:25:24Z",
+                "open_issues": 3420,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201312,
+                "stars": 201284,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1115,7 +1115,7 @@
                 "open_issues": 15,
                 "owner": "SaschaWillems",
                 "repo": "Vulkan",
-                "stars": 12192,
+                "stars": 12195,
                 "topics": [
                   "glsl",
                   "hlsl",
@@ -1187,11 +1187,11 @@
                 "id": 95879426,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T03:17:57Z",
-                "open_issues": 1290,
+                "last_commit": "2026-10-28T10:45:04Z",
+                "open_issues": 1292,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 24004,
+                "stars": 24009,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -1233,7 +1233,7 @@
                 "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20798,
+                "stars": 20797,
                 "topics": [
                   "mxnet"
                 ]
@@ -1252,11 +1252,11 @@
                 "id": 84570214,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-26T18:19:38Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-28T13:37:28Z",
+                "open_issues": 7,
                 "owner": "ARM-software",
                 "repo": "ComputeLibrary",
-                "stars": 3199,
+                "stars": 3200,
                 "topics": [
                   "aarch64",
                   "android",
@@ -1610,7 +1610,7 @@
                 "language": "C++",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-22T13:55:46Z",
-                "open_issues": 441,
+                "open_issues": 446,
                 "owner": "MTG",
                 "repo": "essentia",
                 "stars": 3782,
@@ -1896,7 +1896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T00:05:16.551Z",
+    "last_updated": "2026-10-29T00:27:40.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "Weekly report and awesome list of embedded-ai.",
