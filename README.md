@@ -281,7 +281,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Android
 
-* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) ⭐ 201,252 | 🐛 3,470 | 🌐 C++ | 📅 2026-10-31
+* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) ⭐ 201,263 | 🐛 3,483 | 🌐 C++ | 📅 2026-11-01
 * [bwasti/AICamera: Demonstration of using Caffe2 inside an Android application.](https://github.com/bwasti/AICamera) ⚠️ Archived
 * [KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.](https://github.com/KleinYuan/Caffe2-iOS) ⭐ 225 | 🐛 5 | 🌐 C++ | 📅 2017-08-27
 * [MXNet Android Classification App - Image classification on Android with MXNet.](https://github.com/Leliana/WhatsThis) ⭐ 192 | 🐛 6 | 🌐 Java | 📅 2015-11-11
@@ -310,9 +310,9 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Frameworks & Acceleration Library
 
-* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) ⭐ 24,014 | 🐛 1,292 | 🌐 C++ | 📅 2026-10-30
+* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) ⭐ 24,017 | 🐛 1,316 | 🌐 C++ | 📅 2026-10-30
 * [Deep Learning in a Single File for Smart Devices — mxnet](https://github.com/dmlc/mxnet/tree/master/amalgamation) ⚠️ Archived
-* [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary) ⭐ 3,202 | 🐛 9 | 🌐 C++ | 📅 2026-10-28 [Intro](https://developer.arm.com/technologies/compute-library)
+* [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary) ⭐ 3,203 | 🐛 9 | 🌐 C++ | 📅 2026-10-28 [Intro](https://developer.arm.com/technologies/compute-library)
 * [Microsoft Embedded Learning Library](https://github.com/Microsoft/ELL) ⚠️ Archived
 * [mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn) ⭐ 2,003 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-16
 * [JDAI-CV/dabnn: dabnn is an accelerated binary neural networks inference framework for mobile platform](https://github.com/JDAI-CV/dabnn) ⭐ 775 | 🐛 17 | 🌐 C++ | 📅 2019-11-12
@@ -333,7 +333,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Convertor
 
-Model convertor. More convertors please refer [deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor) ⭐ 3,235 | 🐛 2 | 📅 2023-06-26
+Model convertor. More convertors please refer [deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor) ⭐ 3,236 | 🐛 2 | 📅 2023-06-26
 
 * [NervanaSystems/caffe2neon: Tools to convert Caffe models to neon's serialization format](https://github.com/NervanaSystems/caffe2neon) ⚠️ Archived
 
@@ -427,4 +427,4 @@ This part contains related course, guides and tutorials.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

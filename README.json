@@ -720,11 +720,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T20:34:49Z",
-                "open_issues": 3470,
+                "last_commit": "2026-11-01T22:52:12Z",
+                "open_issues": 3483,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201252,
+                "stars": 201263,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1188,10 +1188,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-30T11:26:42Z",
-                "open_issues": 1292,
+                "open_issues": 1316,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 24014,
+                "stars": 24017,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -1256,7 +1256,7 @@
                 "open_issues": 9,
                 "owner": "ARM-software",
                 "repo": "ComputeLibrary",
-                "stars": 3202,
+                "stars": 3203,
                 "topics": [
                   "aarch64",
                   "android",
@@ -1896,7 +1896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T23:48:24.219Z",
+    "last_updated": "2026-11-01T23:57:48.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "Weekly report and awesome list of embedded-ai.",
