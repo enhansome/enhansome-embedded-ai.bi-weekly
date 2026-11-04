@@ -317,7 +317,7 @@
                 "id": 843133707,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T18:10:57Z",
+                "last_commit": "2026-11-03T22:43:27Z",
                 "open_issues": 40,
                 "owner": "OpenMined",
                 "repo": "syft",
@@ -720,11 +720,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T02:21:49Z",
-                "open_issues": 3490,
+                "last_commit": "2026-11-04T00:46:45Z",
+                "open_issues": 3477,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201275,
+                "stars": 201291,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1115,7 +1115,7 @@
                 "open_issues": 15,
                 "owner": "SaschaWillems",
                 "repo": "Vulkan",
-                "stars": 12201,
+                "stars": 12202,
                 "topics": [
                   "glsl",
                   "hlsl",
@@ -1187,8 +1187,8 @@
                 "id": 95879426,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T08:46:25Z",
-                "open_issues": 1306,
+                "last_commit": "2026-11-03T12:18:56Z",
+                "open_issues": 1309,
                 "owner": "Tencent",
                 "repo": "ncnn",
                 "stars": 24023,
@@ -1233,7 +1233,7 @@
                 "open_issues": 2006,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20794,
+                "stars": 20793,
                 "topics": [
                   "mxnet"
                 ]
@@ -1253,7 +1253,7 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-10-28T13:37:28Z",
-                "open_issues": 10,
+                "open_issues": 9,
                 "owner": "ARM-software",
                 "repo": "ComputeLibrary",
                 "stars": 3203,
@@ -1592,7 +1592,7 @@
                 "open_issues": 363,
                 "owner": "pili-engineering",
                 "repo": "PLDroidPlayer",
-                "stars": 4501,
+                "stars": 4502,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -1613,7 +1613,7 @@
                 "open_issues": 447,
                 "owner": "MTG",
                 "repo": "essentia",
-                "stars": 3789,
+                "stars": 3793,
                 "topics": [
                   "audio",
                   "audio-analysis",
@@ -1896,7 +1896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T02:40:39.086Z",
+    "last_updated": "2026-11-04T00:56:16.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "Weekly report and awesome list of embedded-ai.",
