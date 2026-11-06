@@ -317,7 +317,7 @@
                 "id": 843133707,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T22:43:27Z",
+                "last_commit": "2026-11-05T13:02:06Z",
                 "open_issues": 40,
                 "owner": "OpenMined",
                 "repo": "syft",
@@ -720,11 +720,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T01:02:35Z",
-                "open_issues": 3486,
+                "last_commit": "2026-11-06T01:00:44Z",
+                "open_issues": 3506,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201314,
+                "stars": 201325,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1115,7 +1115,7 @@
                 "open_issues": 15,
                 "owner": "SaschaWillems",
                 "repo": "Vulkan",
-                "stars": 12206,
+                "stars": 12208,
                 "topics": [
                   "glsl",
                   "hlsl",
@@ -1187,11 +1187,11 @@
                 "id": 95879426,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T11:27:39Z",
-                "open_issues": 1308,
+                "last_commit": "2026-11-05T10:49:13Z",
+                "open_issues": 1298,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 24021,
+                "stars": 24026,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -1609,8 +1609,8 @@
                 "id": 10456942,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-22T13:55:46Z",
-                "open_issues": 447,
+                "last_commit": "2026-11-05T14:09:22Z",
+                "open_issues": 448,
                 "owner": "MTG",
                 "repo": "essentia",
                 "stars": 3793,
@@ -1777,7 +1777,7 @@
                 "open_issues": 52,
                 "owner": "jerryscript-project",
                 "repo": "iotjs",
-                "stars": 2598,
+                "stars": 2597,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -1896,7 +1896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:06:24.891Z",
+    "last_updated": "2026-11-06T01:10:07.221Z",
     "original_repository_info": {
       "archived": false,
       "description": "Weekly report and awesome list of embedded-ai.",
