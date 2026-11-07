@@ -244,7 +244,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Model Compression
 
-* [liuzhuang13/DenseNet: Densely Connected Convolutional Networks, In CVPR 2017 (Best Paper Award)](https://github.com/liuzhuang13/DenseNet) ⭐ 4,874 | 🐛 30 | 🌐 Lua | 📅 2024-01-09
+* [liuzhuang13/DenseNet: Densely Connected Convolutional Networks, In CVPR 2017 (Best Paper Award)](https://github.com/liuzhuang13/DenseNet) ⭐ 4,875 | 🐛 30 | 🌐 Lua | 📅 2024-01-09
 * [chuanqi305/MobileNet-SSD: Caffe implementation of Google MobileNet SSD detection network, with pretrained weights on VOC0712 and mAP=0.727.](https://github.com/chuanqi305/MobileNet-SSD) ⭐ 2,125 | 🐛 150 | 🌐 Python | 📅 2025-07-13
 * [hollance/MobileNet-CoreML: The MobileNet neural network using Apple's new CoreML framework](https://github.com/hollance/MobileNet-CoreML) ⭐ 709 | 🐛 5 | 🌐 Swift | 📅 2018-09-22
 * [yonghenglh6/DepthwiseConvolution: A personal mobile convolution implementation on caffe by liuhao.(only GPU)](https://github.com/yonghenglh6/DepthwiseConvolution) ⭐ 526 | 🐛 9 | 🌐 Cuda | 📅 2021-05-21
@@ -256,7 +256,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Model Encryption
 
-* [OpenMined/Syft: Homomorphically Encrypted Deep Learning Library](https://github.com/OpenMined/syft) ⭐ 22 | 🐛 40 | 🌐 Python | 📅 2026-11-05
+* [OpenMined/Syft: Homomorphically Encrypted Deep Learning Library](https://github.com/OpenMined/syft) ⭐ 22 | 🐛 40 | 🌐 Python | 📅 2026-11-06
 
 ## Model Application
 
@@ -272,7 +272,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## AR
 
-* [ProjectDent/ARKit-CoreLocation: Combines the high accuracy of AR with the scale of GPS data](https://github.com/ProjectDent/ARKit-CoreLocation) ⭐ 5,525 | 🐛 52 | 🌐 Swift | 📅 2026-06-02
+* [ProjectDent/ARKit-CoreLocation: Combines the high accuracy of AR with the scale of GPS data](https://github.com/ProjectDent/ARKit-CoreLocation) ⭐ 5,526 | 🐛 52 | 🌐 Swift | 📅 2026-06-02
 * [exyte/ARTetris: Augmented Reality Tetris made with ARKit and SceneKit](https://github.com/exyte/ARTetris) ⭐ 1,523 | 🐛 1 | 🌐 Swift | 📅 2023-07-25
 * [bjarnel/arkit-tictactoe: Tic-Tac-Toe implemented using ARKit+Scenekit](https://github.com/bjarnel/arkit-tictactoe) ⚠️ Archived
 * [arirawr/ARKit-FloorIsLava: Basic ARKit example that detects planes and makes them lava.](https://github.com/arirawr/ARKit-FloorIsLava) ⭐ 127 | 🐛 1 | 🌐 Swift | 📅 2018-11-16
@@ -281,7 +281,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Android
 
-* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) ⭐ 201,325 | 🐛 3,506 | 🌐 C++ | 📅 2026-11-06
+* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) ⭐ 201,366 | 🐛 3,507 | 🌐 C++ | 📅 2026-11-07
 * [bwasti/AICamera: Demonstration of using Caffe2 inside an Android application.](https://github.com/bwasti/AICamera) ⚠️ Archived
 * [KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.](https://github.com/KleinYuan/Caffe2-iOS) ⭐ 225 | 🐛 5 | 🌐 C++ | 📅 2017-08-27
 * [MXNet Android Classification App - Image classification on Android with MXNet.](https://github.com/Leliana/WhatsThis) ⭐ 192 | 🐛 6 | 🌐 Java | 📅 2015-11-11
@@ -310,16 +310,16 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Frameworks & Acceleration Library
 
-* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) ⭐ 24,026 | 🐛 1,298 | 🌐 C++ | 📅 2026-11-05
+* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) ⭐ 24,031 | 🐛 1,294 | 🌐 C++ | 📅 2026-11-06
 * [Deep Learning in a Single File for Smart Devices — mxnet](https://github.com/dmlc/mxnet/tree/master/amalgamation) ⚠️ Archived
-* [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary) ⭐ 3,205 | 🐛 9 | 🌐 C++ | 📅 2026-10-28 [Intro](https://developer.arm.com/technologies/compute-library)
+* [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary) ⭐ 3,205 | 🐛 10 | 🌐 C++ | 📅 2026-10-28 [Intro](https://developer.arm.com/technologies/compute-library)
 * [Microsoft Embedded Learning Library](https://github.com/Microsoft/ELL) ⚠️ Archived
 * [mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn) ⭐ 2,003 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-16
 * [JDAI-CV/dabnn: dabnn is an accelerated binary neural networks inference framework for mobile platform](https://github.com/JDAI-CV/dabnn) ⭐ 775 | 🐛 17 | 🌐 C++ | 📅 2019-11-12
 * [jiaxiang-wu/quantized-cnn: An efficient framework for convolutional neural networks](https://github.com/jiaxiang-wu/quantized-cnn) ⭐ 277 | 🐛 3 | 🌐 C++ | 📅 2023-08-30
 * [Apple CoreML](https://developer.apple.com/documentation/coreml)
 
-- [blei-lab/edward: A library for probabilistic modeling, inference, and criticism. Deep generative models, variational inference. Runs on TensorFlow](https://github.com/blei-lab/edward) ⭐ 4,847 | 🐛 219 | 🌐 Jupyter Notebook | 📅 2024-03-18
+- [blei-lab/edward: A library for probabilistic modeling, inference, and criticism. Deep generative models, variational inference. Runs on TensorFlow](https://github.com/blei-lab/edward) ⭐ 4,848 | 🐛 219 | 🌐 Jupyter Notebook | 📅 2024-03-18
 - [Darknet with NNPACK: NNPACK was used to optimize Darknet without using a GPU. It is useful for embedded devices using ARM CPUs](https://github.com/thomaspark-pkj/darknet-nnpack) ⭐ 306 | 🐛 42 | 🌐 C | 📅 2022-02-22  
 - [naibaf7/libdnn: Greentea LibDNN - a universal convolution implementation supporting CUDA and OpenCL](https://github.com/naibaf7/libdnn) ⭐ 137 | 🐛 8 | 🌐 C++ | 📅 2017-04-20
 - [dmlc/nnvm-fusion: Kernel Fusion and Runtime Compilation Based on NNVM](https://github.com/dmlc/nnvm-fusion) ⭐ 72 | 🐛 0 | 🌐 C++ | 📅 2016-11-21
@@ -340,10 +340,10 @@ Model convertor. More convertors please refer [deep-learning-model-convertor](ht
 ## Mobile Video Process Library/Player
 
 * [pili-engineering/PLDroidPlayer: PLDroidPlayer 是 Pili 直播 SDK 的安卓播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLDroidPlayer) ⭐ 4,501 | 🐛 363 | 📅 2025-09-05
-* [MTG/essentia: C++ library for audio and music analysis, description and synthesis, including Python bindings](https://github.com/MTG/essentia) ⭐ 3,793 | 🐛 448 | 🌐 C++ | 📅 2026-11-05
+* [MTG/essentia: C++ library for audio and music analysis, description and synthesis, including Python bindings](https://github.com/MTG/essentia) ⭐ 3,795 | 🐛 448 | 🌐 C++ | 📅 2026-11-05
 * [pili-engineering/PLPlayerKit: PLPlayerKit 是 Pili 直播 SDK 的 iOS 播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLPlayerKit) ⭐ 1,977 | 🐛 84 | 📅 2025-09-05
 * [pili-engineering/PLPlayerKit: PLPlayerKit 是 Pili 直播 SDK 的 iOS 播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。](https://github.com/pili-engineering/PLPlayerKit) ⭐ 1,977 | 🐛 84 | 📅 2025-09-05
-* [pili-engineering/PLDroidShortVideo: PLDroidShortVideo 是七牛推出的一款适用于 Android 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、本地/云端存储在内的多种功能，支持高度定制以及二次开发。](https://github.com/pili-engineering/PLDroidShortVideo) ⭐ 1,716 | 🐛 122 | 🌐 Java | 📅 2024-05-17
+* [pili-engineering/PLDroidShortVideo: PLDroidShortVideo 是七牛推出的一款适用于 Android 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、本地/云端存储在内的多种功能，支持高度定制以及二次开发。](https://github.com/pili-engineering/PLDroidShortVideo) ⭐ 1,715 | 🐛 122 | 🌐 Java | 📅 2024-05-17
 * [pili-engineering/PLDroidMediaStreaming: PLDroidMediaStreaming 是 Pili 直播 SDK 的 Android 推流端，支持 RTMP 推流，h.264 和 AAC 编码，硬编、软编支持。具有丰富的数据和状态回调，方便用户根据自己的业务定制化开发。具有直播场景下的重要功能，如：美颜、背景音乐、水印等功能。PLDroidMediaStreaming 是现在目前重点维护的版本，自带采集模块也支持用户自己做采集端。](https://github.com/pili-engineering/PLDroidMediaStreaming) ⭐ 1,450 | 🐛 139 | 🌐 Java | 📅 2024-03-13
 * [pili-engineering/PLMediaStreamingKit: PLMediaStreamingKit 是 Pili 直播 SDK 的 iOS 推流端，支持 RTMP 推流，h.264 和 AAC 编码，硬编、软编支持。具有丰富的数据和状态回调，方便用户根据自己的业务定制化开发。具有直播场景下的重要功能，如：美颜、背景音乐、水印等功能。](https://github.com/pili-engineering/PLMediaStreamingKit) ⭐ 543 | 🐛 8 | 🌐 Objective-C | 📅 2024-05-31
 * [pili-engineering/PLShortVideoKit: PLShortVideoKit 是七牛推出的一款适用于 iOS 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、本地/云端存储在内的多种功能，支持高度定制以及二次开发。](https://github.com/pili-engineering/PLShortVideoKit) ⭐ 452 | 🐛 17 | 🌐 Objective-C | 📅 2024-04-30
@@ -351,7 +351,7 @@ Model convertor. More convertors please refer [deep-learning-model-convertor](ht
 
 ## Other Toolkit
 
-* [Samsung/iotjs: Platform for Internet of Things with JavaScript](http://www.iotjs.net) [code](https://github.com/Samsung/iotjs) ⭐ 2,597 | 🐛 52 | 🌐 C | 📅 2021-06-18
+* [Samsung/iotjs: Platform for Internet of Things with JavaScript](http://www.iotjs.net) [code](https://github.com/Samsung/iotjs) ⭐ 2,596 | 🐛 52 | 🌐 C | 📅 2021-06-18
 * [hollance/Forge: A neural network toolkit for Metal](https://github.com/hollance/Forge) ⭐ 1,265 | 🐛 3 | 🌐 Swift | 📅 2018-05-18
 * [christopher5106/FastAnnotationTool: A tool using OpenCV to annotate images for image classification, optical character reading, etc.](https://github.com/christopher5106/FastAnnotationTool) ⭐ 951 | 🐛 7 | 🌐 C++ | 📅 2019-01-17  
 * [facebook/fb-caffe-exts: Some handy utility libraries and tools for the Caffe deep learning framework.](https://github.com/facebook/fb-caffe-exts) ⚠️ Archived
@@ -427,4 +427,4 @@ This part contains related course, guides and tutorials.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
