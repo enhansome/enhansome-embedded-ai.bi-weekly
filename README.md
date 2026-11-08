@@ -246,7 +246,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 * [liuzhuang13/DenseNet: Densely Connected Convolutional Networks, In CVPR 2017 (Best Paper Award)](https://github.com/liuzhuang13/DenseNet) ⭐ 4,875 | 🐛 30 | 🌐 Lua | 📅 2024-01-09
 * [chuanqi305/MobileNet-SSD: Caffe implementation of Google MobileNet SSD detection network, with pretrained weights on VOC0712 and mAP=0.727.](https://github.com/chuanqi305/MobileNet-SSD) ⭐ 2,125 | 🐛 150 | 🌐 Python | 📅 2025-07-13
-* [hollance/MobileNet-CoreML: The MobileNet neural network using Apple's new CoreML framework](https://github.com/hollance/MobileNet-CoreML) ⭐ 709 | 🐛 5 | 🌐 Swift | 📅 2018-09-22
+* [hollance/MobileNet-CoreML: The MobileNet neural network using Apple's new CoreML framework](https://github.com/hollance/MobileNet-CoreML) ⭐ 708 | 🐛 5 | 🌐 Swift | 📅 2018-09-22
 * [yonghenglh6/DepthwiseConvolution: A personal mobile convolution implementation on caffe by liuhao.(only GPU)](https://github.com/yonghenglh6/DepthwiseConvolution) ⭐ 526 | 🐛 9 | 🌐 Cuda | 📅 2021-05-21
 * [kedartatwawadi/NN\_compression](https://github.com/kedartatwawadi/NN_compression) ⭐ 216 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2019-09-05
 * [AngusG/tensorflow-xnor-bnn: BinaryNets in TensorFlow with XNOR GEMM op](https://github.com/AngusG/tensorflow-xnor-bnn) ⭐ 155 | 🐛 10 | 🌐 C++ | 📅 2017-08-23  
@@ -256,7 +256,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Model Encryption
 
-* [OpenMined/Syft: Homomorphically Encrypted Deep Learning Library](https://github.com/OpenMined/syft) ⭐ 22 | 🐛 40 | 🌐 Python | 📅 2026-11-06
+* [OpenMined/Syft: Homomorphically Encrypted Deep Learning Library](https://github.com/OpenMined/syft) ⭐ 22 | 🐛 40 | 🌐 Python | 📅 2026-11-07
 
 ## Model Application
 
@@ -281,7 +281,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Android
 
-* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) ⭐ 201,366 | 🐛 3,507 | 🌐 C++ | 📅 2026-11-07
+* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) ⭐ 201,387 | 🐛 3,516 | 🌐 C++ | 📅 2026-11-07
 * [bwasti/AICamera: Demonstration of using Caffe2 inside an Android application.](https://github.com/bwasti/AICamera) ⚠️ Archived
 * [KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.](https://github.com/KleinYuan/Caffe2-iOS) ⭐ 225 | 🐛 5 | 🌐 C++ | 📅 2017-08-27
 * [MXNet Android Classification App - Image classification on Android with MXNet.](https://github.com/Leliana/WhatsThis) ⭐ 192 | 🐛 6 | 🌐 Java | 📅 2015-11-11
@@ -298,19 +298,19 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 * [MXNet iOS Classification App - Image classification on iOS with MXNet.](https://github.com/pppoe/WhatsThis-iOS) ⭐ 113 | 🐛 6 | 🌐 C++ | 📅 2016-03-26
 * [Compile MXnet on Xcode (in Chinese) - a step-by-step tutorial of compiling MXnet on Xcode for iOS app](http://www.liuxiao.org/2015/12/ios-mxnet-%E7%9A%84-ios-%E7%89%88%E6%9C%AC%E7%BC%96%E8%AF%91/)
 
-- [kingreza/SeeFood: Inspired by HBO's Silicon Valley: SeeFood is an iOS app that uses CoreML to detect various dishes](https://github.com/kingreza/SeeFood) ⭐ 450 | 🐛 2 | 🌐 Swift | 📅 2017-08-05
+- [kingreza/SeeFood: Inspired by HBO's Silicon Valley: SeeFood is an iOS app that uses CoreML to detect various dishes](https://github.com/kingreza/SeeFood) ⭐ 449 | 🐛 2 | 🌐 Swift | 📅 2017-08-05
 - [hollance/TensorFlow-iOS-Example: Source code for my blog post "Getting started with TensorFlow on iOS"](https://github.com/hollance/TensorFlow-iOS-Example) ⭐ 437 | 🐛 8 | 🌐 Swift | 📅 2017-03-06
 - [Naituw/CoreMLDemo: Demo for CoreML & Vision Framework](https://github.com/Naituw/CoreMLDemo) ⭐ 151 | 🐛 3 | 🌐 Objective-C | 📅 2019-05-23
 
 ## Vulkan
 
-* [SaschaWillems/Vulkan: Examples and demos for the new Vulkan API](https://github.com/SaschaWillems/Vulkan) ⭐ 12,208 | 🐛 15 | 🌐 GLSL | 📅 2026-10-25
+* [SaschaWillems/Vulkan: Examples and demos for the new Vulkan API](https://github.com/SaschaWillems/Vulkan) ⭐ 12,208 | 🐛 16 | 🌐 GLSL | 📅 2026-11-07
 * [ARM-software/vulkan-sdk: ARM Vulkan SDK](https://github.com/ARM-software/vulkan-sdk) ⭐ 244 | 🐛 6 | 🌐 C | 📅 2023-02-25
 * [alexhultman/libvc: Vulkan Compute for C++ (experimentation project)](https://github.com/alexhultman/libvc) ⭐ 142 | 🐛 2 | 🌐 C++ | 📅 2022-01-08
 
 ## Frameworks & Acceleration Library
 
-* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) ⭐ 24,031 | 🐛 1,294 | 🌐 C++ | 📅 2026-11-06
+* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) ⭐ 24,030 | 🐛 1,295 | 🌐 C++ | 📅 2026-11-06
 * [Deep Learning in a Single File for Smart Devices — mxnet](https://github.com/dmlc/mxnet/tree/master/amalgamation) ⚠️ Archived
 * [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary) ⭐ 3,205 | 🐛 10 | 🌐 C++ | 📅 2026-10-28 [Intro](https://developer.arm.com/technologies/compute-library)
 * [Microsoft Embedded Learning Library](https://github.com/Microsoft/ELL) ⚠️ Archived
@@ -427,4 +427,4 @@ This part contains related course, guides and tutorials.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
