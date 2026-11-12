@@ -127,7 +127,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Structure
 
-* \[1704.06904] [Residual Attention Network for Image Classification](https://arxiv.org/pdf/1704.06904.pdf) [\[code\]](https://github.com/buptwangfei/residual-attention-network) ⭐ 558 | 🐛 18 | 📅 2017-07-21
+* \[1704.06904] [Residual Attention Network for Image Classification](https://arxiv.org/pdf/1704.06904.pdf) [\[code\]](https://github.com/buptwangfei/residual-attention-network) ⭐ 557 | 🐛 18 | 📅 2017-07-21
 * [BranchyNet: Fast Inference via Early Exiting from Deep Neural Networks](http://www.eecs.harvard.edu/~htk/publication/2016-icpr-teerapittayanon-mcdanel-kung.pdf)
 
 - \[CVPR2017] [Squeeze-and-Excitation networks (ILSVRC 2017 winner) at CVPR2017](http://image-net.org/challenges/talks_2017/SENet.pdf)
@@ -244,10 +244,10 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Model Compression
 
-* [liuzhuang13/DenseNet: Densely Connected Convolutional Networks, In CVPR 2017 (Best Paper Award)](https://github.com/liuzhuang13/DenseNet) ⭐ 4,871 | 🐛 30 | 🌐 Lua | 📅 2024-01-09
+* [liuzhuang13/DenseNet: Densely Connected Convolutional Networks, In CVPR 2017 (Best Paper Award)](https://github.com/liuzhuang13/DenseNet) ⭐ 4,870 | 🐛 30 | 🌐 Lua | 📅 2024-01-09
 * [chuanqi305/MobileNet-SSD: Caffe implementation of Google MobileNet SSD detection network, with pretrained weights on VOC0712 and mAP=0.727.](https://github.com/chuanqi305/MobileNet-SSD) ⭐ 2,125 | 🐛 150 | 🌐 Python | 📅 2025-07-13
 * [hollance/MobileNet-CoreML: The MobileNet neural network using Apple's new CoreML framework](https://github.com/hollance/MobileNet-CoreML) ⭐ 708 | 🐛 5 | 🌐 Swift | 📅 2018-09-22
-* [yonghenglh6/DepthwiseConvolution: A personal mobile convolution implementation on caffe by liuhao.(only GPU)](https://github.com/yonghenglh6/DepthwiseConvolution) ⭐ 526 | 🐛 9 | 🌐 Cuda | 📅 2021-05-21
+* [yonghenglh6/DepthwiseConvolution: A personal mobile convolution implementation on caffe by liuhao.(only GPU)](https://github.com/yonghenglh6/DepthwiseConvolution) ⭐ 525 | 🐛 9 | 🌐 Cuda | 📅 2021-05-21
 * [kedartatwawadi/NN\_compression](https://github.com/kedartatwawadi/NN_compression) ⭐ 216 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2019-09-05
 * [AngusG/tensorflow-xnor-bnn: BinaryNets in TensorFlow with XNOR GEMM op](https://github.com/AngusG/tensorflow-xnor-bnn) ⭐ 155 | 🐛 10 | 🌐 C++ | 📅 2017-08-23  
 * [farmingyard/caffe-mobilenet: A caffe implementation of mobilenet's depthwise convolution layer](https://github.com/farmingyard/caffe-mobilenet) ⭐ 146 | 🐛 10 | 🌐 C++ | 📅 2017-07-31  
@@ -256,14 +256,14 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Model Encryption
 
-* [OpenMined/Syft: Homomorphically Encrypted Deep Learning Library](https://github.com/OpenMined/syft) ⭐ 22 | 🐛 41 | 🌐 Python | 📅 2026-11-10
+* [OpenMined/Syft: Homomorphically Encrypted Deep Learning Library](https://github.com/OpenMined/syft) ⭐ 22 | 🐛 42 | 🌐 Python | 📅 2026-11-11
 
 ## Model Application
 
-* [msracver/FCIS: Fully Convolutional Instance-aware Semantic Segmentation](https://github.com/msracver/FCIS) ⭐ 1,562 | 🐛 92 | 🌐 Cuda | 📅 2021-09-27
+* [msracver/FCIS: Fully Convolutional Instance-aware Semantic Segmentation](https://github.com/msracver/FCIS) ⭐ 1,561 | 🐛 92 | 🌐 Cuda | 📅 2021-09-27
 * [Seanlinx/mtcnn: this repository is the implementation of MTCNN in MXnet](https://github.com/Seanlinx/mtcnn) ⭐ 586 | 🐛 59 | 🌐 Python | 📅 2017-07-08
-* [CongWeilin/mtcnn-caffe: Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks](https://github.com/CongWeilin/mtcnn-caffe) ⭐ 493 | 🐛 52 | 🌐 Python | 📅 2018-10-01  
-* [foreverYoungGitHub/MTCNN: Repository for "Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks", implemented with Caffe, C++ interface.](https://github.com/foreverYoungGitHub/MTCNN) ⭐ 327 | 🐛 37 | 🌐 C++ | 📅 2018-03-19
+* [CongWeilin/mtcnn-caffe: Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks](https://github.com/CongWeilin/mtcnn-caffe) ⭐ 492 | 🐛 52 | 🌐 Python | 📅 2018-10-01  
+* [foreverYoungGitHub/MTCNN: Repository for "Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks", implemented with Caffe, C++ interface.](https://github.com/foreverYoungGitHub/MTCNN) ⭐ 326 | 🐛 37 | 🌐 C++ | 📅 2018-03-19
 * [OAID/mtcnn: C++ project to implement MTCNN, a perfect face detect algorithm, on different DL frameworks. The most popular frameworks: caffe/mxnet/tensorflow, are all suppported now](https://github.com/oaid/mtcnn) ⭐ 274 | 🐛 4 | 🌐 C++ | 📅 2018-06-07
 * [bearpaw/PyraNet: Code for "Learning Feature Pyramids for Human Pose Estimation" (ICCV 2017)](https://github.com/bearpaw/PyraNet) ⭐ 220 | 🐛 11 | 🌐 Lua | 📅 2021-12-20
 * [bearpaw/PyraNet: Code for "Learning Feature Pyramids for Human Pose Estimation" (ICCV 2017)](https://github.com/bearpaw/PyraNet) ⭐ 220 | 🐛 11 | 🌐 Lua | 📅 2021-12-20
@@ -281,7 +281,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Android
 
-* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) ⭐ 201,444 | 🐛 3,435 | 🌐 C++ | 📅 2026-11-11
+* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) ⭐ 201,568 | 🐛 3,434 | 🌐 C++ | 📅 2026-11-12
 * [bwasti/AICamera: Demonstration of using Caffe2 inside an Android application.](https://github.com/bwasti/AICamera) ⚠️ Archived
 * [KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.](https://github.com/KleinYuan/Caffe2-iOS) ⭐ 225 | 🐛 5 | 🌐 C++ | 📅 2017-08-27
 * [MXNet Android Classification App - Image classification on Android with MXNet.](https://github.com/Leliana/WhatsThis) ⭐ 192 | 🐛 6 | 🌐 Java | 📅 2015-11-11
@@ -310,13 +310,13 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Frameworks & Acceleration Library
 
-* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) ⭐ 24,036 | 🐛 1,306 | 🌐 C++ | 📅 2026-11-10
+* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) ⭐ 24,042 | 🐛 1,311 | 🌐 C++ | 📅 2026-11-11
 * [Deep Learning in a Single File for Smart Devices — mxnet](https://github.com/dmlc/mxnet/tree/master/amalgamation) ⚠️ Archived
-* [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary) ⭐ 3,207 | 🐛 9 | 🌐 C++ | 📅 2026-11-09 [Intro](https://developer.arm.com/technologies/compute-library)
+* [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary) ⭐ 3,208 | 🐛 9 | 🌐 C++ | 📅 2026-11-09 [Intro](https://developer.arm.com/technologies/compute-library)
 * [Microsoft Embedded Learning Library](https://github.com/Microsoft/ELL) ⚠️ Archived
 * [mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn) ⭐ 2,003 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-16
 * [JDAI-CV/dabnn: dabnn is an accelerated binary neural networks inference framework for mobile platform](https://github.com/JDAI-CV/dabnn) ⭐ 775 | 🐛 17 | 🌐 C++ | 📅 2019-11-12
-* [jiaxiang-wu/quantized-cnn: An efficient framework for convolutional neural networks](https://github.com/jiaxiang-wu/quantized-cnn) ⭐ 277 | 🐛 3 | 🌐 C++ | 📅 2023-08-30
+* [jiaxiang-wu/quantized-cnn: An efficient framework for convolutional neural networks](https://github.com/jiaxiang-wu/quantized-cnn) ⭐ 276 | 🐛 3 | 🌐 C++ | 📅 2023-08-30
 * [Apple CoreML](https://developer.apple.com/documentation/coreml)
 
 - [blei-lab/edward: A library for probabilistic modeling, inference, and criticism. Deep generative models, variational inference. Runs on TensorFlow](https://github.com/blei-lab/edward) ⭐ 4,846 | 🐛 219 | 🌐 Jupyter Notebook | 📅 2024-03-18
@@ -427,4 +427,4 @@ This part contains related course, guides and tutorials.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._

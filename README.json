@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "fwang91",
                 "repo": "residual-attention-network",
-                "stars": 558,
+                "stars": 557,
                 "topics": [
                   "attention",
                   "cvpr-2017",
@@ -115,7 +115,7 @@
                 "open_issues": 30,
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4871,
+                "stars": 4870,
                 "topics": [
                   "deep-learning"
                 ]
@@ -192,7 +192,7 @@
                 "open_issues": 9,
                 "owner": "yonghenglh6",
                 "repo": "DepthwiseConvolution",
-                "stars": 526,
+                "stars": 525,
                 "topics": [
                   "mobilenet"
                 ]
@@ -317,8 +317,8 @@
                 "id": 843133707,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T18:30:52Z",
-                "open_issues": 41,
+                "last_commit": "2026-11-11T23:55:50Z",
+                "open_issues": 42,
                 "owner": "OpenMined",
                 "repo": "syft",
                 "stars": 22,
@@ -349,7 +349,7 @@
                 "open_issues": 92,
                 "owner": "msracver",
                 "repo": "FCIS",
-                "stars": 1562,
+                "stars": 1561,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -391,7 +391,7 @@
                 "open_issues": 52,
                 "owner": "CongWeilin",
                 "repo": "mtcnn-caffe",
-                "stars": 493,
+                "stars": 492,
                 "topics": [
                   "caffe",
                   "mtcnn"
@@ -415,7 +415,7 @@
                 "open_issues": 37,
                 "owner": "foreverYoungGitHub",
                 "repo": "MTCNN",
-                "stars": 327,
+                "stars": 326,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -720,11 +720,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T00:50:06Z",
-                "open_issues": 3435,
+                "last_commit": "2026-11-12T01:59:27Z",
+                "open_issues": 3434,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201444,
+                "stars": 201568,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1187,11 +1187,11 @@
                 "id": 95879426,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T10:48:27Z",
-                "open_issues": 1306,
+                "last_commit": "2026-11-11T12:35:13Z",
+                "open_issues": 1311,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 24036,
+                "stars": 24042,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -1233,7 +1233,7 @@
                 "open_issues": 2006,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20793,
+                "stars": 20792,
                 "topics": [
                   "mxnet"
                 ]
@@ -1256,7 +1256,7 @@
                 "open_issues": 9,
                 "owner": "ARM-software",
                 "repo": "ComputeLibrary",
-                "stars": 3207,
+                "stars": 3208,
                 "topics": [
                   "aarch64",
                   "android",
@@ -1361,7 +1361,7 @@
                 "open_issues": 3,
                 "owner": "CAS-CLab",
                 "repo": "quantized-cnn",
-                "stars": 277,
+                "stars": 276,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -1896,7 +1896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T00:56:07.116Z",
+    "last_updated": "2026-11-12T02:01:30.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "Weekly report and awesome list of embedded-ai.",
