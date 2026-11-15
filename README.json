@@ -317,7 +317,7 @@
                 "id": 843133707,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T21:09:01Z",
+                "last_commit": "2026-11-14T21:41:08Z",
                 "open_issues": 42,
                 "owner": "OpenMined",
                 "repo": "syft",
@@ -720,11 +720,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T00:51:23Z",
-                "open_issues": 3437,
+                "last_commit": "2026-11-14T23:31:09Z",
+                "open_issues": 3458,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201591,
+                "stars": 201604,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1142,7 +1142,7 @@
                 "open_issues": 6,
                 "owner": "ARM-software",
                 "repo": "vulkan-sdk",
-                "stars": 245,
+                "stars": 246,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -1188,10 +1188,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-13T11:58:26Z",
-                "open_issues": 1322,
+                "open_issues": 1324,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 24049,
+                "stars": 24052,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -1253,10 +1253,10 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-11-09T10:09:06Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "ARM-software",
                 "repo": "ComputeLibrary",
-                "stars": 3208,
+                "stars": 3209,
                 "topics": [
                   "aarch64",
                   "android",
@@ -1488,7 +1488,7 @@
                 "open_issues": 23,
                 "owner": "baidu-research",
                 "repo": "DeepBench",
-                "stars": 1110,
+                "stars": 1109,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -1613,7 +1613,7 @@
                 "open_issues": 448,
                 "owner": "MTG",
                 "repo": "essentia",
-                "stars": 3803,
+                "stars": 3804,
                 "topics": [
                   "audio",
                   "audio-analysis",
@@ -1777,7 +1777,7 @@
                 "open_issues": 52,
                 "owner": "jerryscript-project",
                 "repo": "iotjs",
-                "stars": 2596,
+                "stars": 2595,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -1896,7 +1896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T01:05:15.043Z",
+    "last_updated": "2026-11-15T00:25:14.511Z",
     "original_repository_info": {
       "archived": false,
       "description": "Weekly report and awesome list of embedded-ai.",
