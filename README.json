@@ -115,7 +115,7 @@
                 "open_issues": 30,
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4870,
+                "stars": 4871,
                 "topics": [
                   "deep-learning"
                 ]
@@ -138,7 +138,7 @@
                 "open_issues": 150,
                 "owner": "chuanqi305",
                 "repo": "MobileNet-SSD",
-                "stars": 2124,
+                "stars": 2123,
                 "topics": [
                   "caffe",
                   "detection",
@@ -317,7 +317,7 @@
                 "id": 843133707,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T00:53:26Z",
+                "last_commit": "2026-11-17T20:47:44Z",
                 "open_issues": 42,
                 "owner": "OpenMined",
                 "repo": "syft",
@@ -562,7 +562,7 @@
                 "open_issues": 52,
                 "owner": "AndrewHartAR",
                 "repo": "ARKit-CoreLocation",
-                "stars": 5527,
+                "stars": 5526,
                 "topics": [
                   "arkit",
                   "augmented-reality",
@@ -720,11 +720,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T03:07:05Z",
-                "open_issues": 3438,
+                "last_commit": "2026-11-18T02:25:08Z",
+                "open_issues": 3457,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201605,
+                "stars": 201752,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1187,11 +1187,11 @@
                 "id": 95879426,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-16T11:49:50Z",
-                "open_issues": 1324,
+                "last_commit": "2026-11-17T06:57:31Z",
+                "open_issues": 1325,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 24056,
+                "stars": 24062,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -1233,7 +1233,7 @@
                 "open_issues": 2006,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20791,
+                "stars": 20792,
                 "topics": [
                   "mxnet"
                 ]
@@ -1256,7 +1256,7 @@
                 "open_issues": 10,
                 "owner": "ARM-software",
                 "repo": "ComputeLibrary",
-                "stars": 3210,
+                "stars": 3211,
                 "topics": [
                   "aarch64",
                   "android",
@@ -1382,7 +1382,7 @@
                 "open_issues": 219,
                 "owner": "blei-lab",
                 "repo": "edward",
-                "stars": 4846,
+                "stars": 4847,
                 "topics": [
                   "bayesian-methods",
                   "data-science",
@@ -1613,7 +1613,7 @@
                 "open_issues": 449,
                 "owner": "MTG",
                 "repo": "essentia",
-                "stars": 3808,
+                "stars": 3809,
                 "topics": [
                   "audio",
                   "audio-analysis",
@@ -1896,7 +1896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T03:14:23.352Z",
+    "last_updated": "2026-11-18T02:37:46.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "Weekly report and awesome list of embedded-ai.",
