@@ -256,7 +256,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Model Encryption
 
-* [OpenMined/Syft: Homomorphically Encrypted Deep Learning Library](https://github.com/OpenMined/syft) ⭐ 22 | 🐛 42 | 🌐 Python | 📅 2026-11-18
+* [OpenMined/Syft: Homomorphically Encrypted Deep Learning Library](https://github.com/OpenMined/syft) ⭐ 22 | 🐛 42 | 🌐 Python | 📅 2026-11-20
 
 ## Model Application
 
@@ -264,7 +264,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 * [Seanlinx/mtcnn: this repository is the implementation of MTCNN in MXnet](https://github.com/Seanlinx/mtcnn) ⭐ 586 | 🐛 59 | 🌐 Python | 📅 2017-07-08
 * [CongWeilin/mtcnn-caffe: Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks](https://github.com/CongWeilin/mtcnn-caffe) ⭐ 492 | 🐛 52 | 🌐 Python | 📅 2018-10-01  
 * [foreverYoungGitHub/MTCNN: Repository for "Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks", implemented with Caffe, C++ interface.](https://github.com/foreverYoungGitHub/MTCNN) ⭐ 326 | 🐛 37 | 🌐 C++ | 📅 2018-03-19
-* [OAID/mtcnn: C++ project to implement MTCNN, a perfect face detect algorithm, on different DL frameworks. The most popular frameworks: caffe/mxnet/tensorflow, are all suppported now](https://github.com/oaid/mtcnn) ⭐ 274 | 🐛 4 | 🌐 C++ | 📅 2018-06-07
+* [OAID/mtcnn: C++ project to implement MTCNN, a perfect face detect algorithm, on different DL frameworks. The most popular frameworks: caffe/mxnet/tensorflow, are all suppported now](https://github.com/oaid/mtcnn) ⭐ 275 | 🐛 4 | 🌐 C++ | 📅 2018-06-07
 * [bearpaw/PyraNet: Code for "Learning Feature Pyramids for Human Pose Estimation" (ICCV 2017)](https://github.com/bearpaw/PyraNet) ⭐ 220 | 🐛 11 | 🌐 Lua | 📅 2021-12-20
 * [bearpaw/PyraNet: Code for "Learning Feature Pyramids for Human Pose Estimation" (ICCV 2017)](https://github.com/bearpaw/PyraNet) ⭐ 220 | 🐛 11 | 🌐 Lua | 📅 2021-12-20
 * [LaoDar/cnn\_head\_pose\_estimator: a simple and fast mxnet version CNN based head pose estimator](https://github.com/LaoDar/cnn_head_pose_estimator) ⭐ 107 | 🐛 4 | 🌐 Python | 📅 2018-01-15
@@ -281,7 +281,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Android
 
-* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) ⭐ 201,655 | 🐛 3,436 | 🌐 C++ | 📅 2026-11-20
+* [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) ⭐ 201,663 | 🐛 3,470 | 🌐 C++ | 📅 2026-11-21
 * [bwasti/AICamera: Demonstration of using Caffe2 inside an Android application.](https://github.com/bwasti/AICamera) ⚠️ Archived
 * [KleinYuan/Caffe2-iOS: Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.](https://github.com/KleinYuan/Caffe2-iOS) ⭐ 225 | 🐛 5 | 🌐 C++ | 📅 2017-08-27
 * [MXNet Android Classification App - Image classification on Android with MXNet.](https://github.com/Leliana/WhatsThis) ⭐ 192 | 🐛 6 | 🌐 Java | 📅 2015-11-11
@@ -304,13 +304,13 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Vulkan
 
-* [SaschaWillems/Vulkan: Examples and demos for the new Vulkan API](https://github.com/SaschaWillems/Vulkan) ⭐ 12,216 | 🐛 15 | 🌐 GLSL | 📅 2026-11-09
+* [SaschaWillems/Vulkan: Examples and demos for the new Vulkan API](https://github.com/SaschaWillems/Vulkan) ⭐ 12,217 | 🐛 15 | 🌐 GLSL | 📅 2026-11-09
 * [ARM-software/vulkan-sdk: ARM Vulkan SDK](https://github.com/ARM-software/vulkan-sdk) ⭐ 246 | 🐛 6 | 🌐 C | 📅 2023-02-25
 * [alexhultman/libvc: Vulkan Compute for C++ (experimentation project)](https://github.com/alexhultman/libvc) ⭐ 142 | 🐛 2 | 🌐 C++ | 📅 2022-01-08
 
 ## Frameworks & Acceleration Library
 
-* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) ⭐ 24,075 | 🐛 1,319 | 🌐 C++ | 📅 2026-11-19
+* [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) ⭐ 24,082 | 🐛 1,318 | 🌐 C++ | 📅 2026-11-21
 * [Deep Learning in a Single File for Smart Devices — mxnet](https://github.com/dmlc/mxnet/tree/master/amalgamation) ⚠️ Archived
 * [ARM-software/ComputeLibrary: The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies](https://github.com/ARM-software/ComputeLibrary) ⭐ 3,210 | 🐛 11 | 🌐 C++ | 📅 2026-11-18 [Intro](https://developer.arm.com/technologies/compute-library)
 * [Microsoft Embedded Learning Library](https://github.com/Microsoft/ELL) ⚠️ Archived
@@ -427,4 +427,4 @@ This part contains related course, guides and tutorials.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._

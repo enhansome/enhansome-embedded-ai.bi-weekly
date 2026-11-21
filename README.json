@@ -317,7 +317,7 @@
                 "id": 843133707,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T20:17:10Z",
+                "last_commit": "2026-11-20T16:33:45Z",
                 "open_issues": 42,
                 "owner": "OpenMined",
                 "repo": "syft",
@@ -436,7 +436,7 @@
                 "open_issues": 4,
                 "owner": "OAID",
                 "repo": "FaceDetection",
-                "stars": 274,
+                "stars": 275,
                 "topics": [
                   "caffe",
                   "cnn",
@@ -720,11 +720,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T01:52:10Z",
-                "open_issues": 3436,
+                "last_commit": "2026-11-21T01:44:09Z",
+                "open_issues": 3470,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201655,
+                "stars": 201663,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1115,7 +1115,7 @@
                 "open_issues": 15,
                 "owner": "SaschaWillems",
                 "repo": "Vulkan",
-                "stars": 12216,
+                "stars": 12217,
                 "topics": [
                   "glsl",
                   "hlsl",
@@ -1187,11 +1187,11 @@
                 "id": 95879426,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T11:03:45Z",
-                "open_issues": 1319,
+                "last_commit": "2026-11-21T00:44:28Z",
+                "open_issues": 1318,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 24075,
+                "stars": 24082,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -1896,7 +1896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:54:49.136Z",
+    "last_updated": "2026-11-21T01:49:20.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "Weekly report and awesome list of embedded-ai.",
