@@ -115,7 +115,7 @@
                 "open_issues": 30,
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4872,
+                "stars": 4873,
                 "topics": [
                   "deep-learning"
                 ]
@@ -317,7 +317,7 @@
                 "id": 843133707,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T01:47:07Z",
+                "last_commit": "2026-11-26T10:03:21Z",
                 "open_issues": 41,
                 "owner": "OpenMined",
                 "repo": "syft",
@@ -720,11 +720,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T02:28:08Z",
-                "open_issues": 3475,
+                "last_commit": "2026-11-27T01:45:20Z",
+                "open_issues": 3402,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201837,
+                "stars": 201867,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1111,8 +1111,8 @@
                 "id": 37821236,
                 "language": "GLSL",
                 "license": "MIT",
-                "last_commit": "2026-11-09T16:17:49Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-26T19:57:23Z",
+                "open_issues": 15,
                 "owner": "SaschaWillems",
                 "repo": "Vulkan",
                 "stars": 12226,
@@ -1187,11 +1187,11 @@
                 "id": 95879426,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-26T01:31:31Z",
-                "open_issues": 1332,
+                "last_commit": "2026-11-26T15:11:17Z",
+                "open_issues": 1329,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 24100,
+                "stars": 24103,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -1233,7 +1233,7 @@
                 "open_issues": 2006,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20790,
+                "stars": 20788,
                 "topics": [
                   "mxnet"
                 ]
@@ -1252,8 +1252,8 @@
                 "id": 84570214,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-11-23T11:17:17Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-26T11:13:01Z",
+                "open_issues": 13,
                 "owner": "ARM-software",
                 "repo": "ComputeLibrary",
                 "stars": 3213,
@@ -1592,7 +1592,7 @@
                 "open_issues": 363,
                 "owner": "pili-engineering",
                 "repo": "PLDroidPlayer",
-                "stars": 4499,
+                "stars": 4498,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -1613,7 +1613,7 @@
                 "open_issues": 448,
                 "owner": "MTG",
                 "repo": "essentia",
-                "stars": 3819,
+                "stars": 3823,
                 "topics": [
                   "audio",
                   "audio-analysis",
@@ -1686,7 +1686,7 @@
                 "open_issues": 122,
                 "owner": "pili-engineering",
                 "repo": "PLDroidShortVideo",
-                "stars": 1713,
+                "stars": 1712,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -1707,7 +1707,7 @@
                 "open_issues": 139,
                 "owner": "pili-engineering",
                 "repo": "PLDroidMediaStreaming",
-                "stars": 1447,
+                "stars": 1446,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -1777,7 +1777,7 @@
                 "open_issues": 52,
                 "owner": "jerryscript-project",
                 "repo": "iotjs",
-                "stars": 2592,
+                "stars": 2593,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:21.820Z"
@@ -1896,7 +1896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T03:13:45.347Z",
+    "last_updated": "2026-11-27T03:18:37.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "Weekly report and awesome list of embedded-ai.",
